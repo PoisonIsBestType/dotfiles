@@ -1,0 +1,88 @@
+* {
+  font: "JetBrainsMono Nerd Font regular 10";
+  foreground: #c8c8c8;
+  background-color: #12121260;
+  border: 1px;
+  transparent: rgba(46, 52, 64, 0);
+}
+
+window {
+  width: 48%;
+  height: 48%;
+
+  orientation: horizontal;
+  location: center;
+  anchor: center;
+  border: 3px;
+  border-color: #3f6cad;
+  border-radius: 10px;
+  spacing: 0;
+  children: [ mainbox ];
+}
+
+mainbox {
+  spacing: 0;
+  children: [ inputbar, message, listview ];
+}
+
+inputbar {
+  color: #19191910;
+  margin: 10px;
+  padding: 10px;
+  border: 3px;
+  border-color: #3f6cad;
+  border-radius: 10px;
+  
+}
+
+message {
+  border: 0;
+  padding: 0;
+}
+
+entry,
+prompt,
+case-indicator {
+  text-font: inherit;
+  text-color: #c8c8c8;
+}
+
+entry {
+  cursor: pointer;
+  horizontal-align: 0.5;
+}
+
+listview {
+  layout: vertical;
+  padding: 10px;
+  lines: 12;
+  columns: 7;
+  border: 0;
+}
+
+element {
+  color: @cyan;
+  orientation: vertical;
+}
+
+element-text,
+element-icon {
+  background-color: inherit;
+  text-color: #c8c8c8;
+  horizontal-align: 0.5;
+}
+
+element-icon {
+  size: 64;
+}
+
+element selected.normal {
+  background-color: #3f6cad;
+  border: 2px;
+  border-color: #2f88ff;
+  border-radius: 10px;
+}
+
+scrollbar {
+  enabled: true;
+}
