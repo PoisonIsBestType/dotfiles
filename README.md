@@ -1,6 +1,6 @@
 # Almeida's Dotfiles
 
-I'm not a developer so just don't expect much!
+I'm not a developer so don't expect much!
 
 This repository contains my `~/.config` backup.
 
