@@ -18,7 +18,7 @@ local systray = wibox.widget.systray()
   beautiful.systray_icon_spacing = 2
 
   -- Clock / Calendar 24h format (using as data / calendar)
-local textclock = wibox.widget.textclock('<span font="JetBrainsMono Nerd Font Mono 11">%d/%m/%y</span>')
+local textclock = wibox.widget.textclock('<span font="JetBrainsMono Nerd Font Mono 11">%d/%m  </span>')
 
  --Center Clock
 local my_textclock = wibox.widget.textclock('<span font="JetBrainsMono Nerd Font Mono bold 17">%H:%M</span>')
@@ -32,7 +32,7 @@ local month_calendar = awful.widget.calendar_popup.month({
 })
 month_calendar:attach(my_textclock, 'tm')
 month_calendar.shape = function(cr, w, h)
-  gears.shape.rounded_rect(cr, w, h, 5)
+  gears.shape.rounded_rect(cr, w, h, 4)
 end
 
 local clock_widget = wibox.container.margin(textclock, 13, 13, 8, 8)
@@ -113,7 +113,14 @@ local TopPanel = function(s)
     --local gpuTemp = awful.widget.watch('bash -c "echo "ɢᴘᴜ" && nvidia-smi --query-gpu=temperature.gpu --format=csv,noheader | grep -Eo [0-9]* |  sed \'s/$/°C/\'"', 5)
     local cpuUtil = awful.widget.watch('bash -c "echo ""$[100-$(vmstat 1 2|tail -1|awk \'{print $15}\')]"%""', 2)
     local ramUtil = awful.widget.watch('bash -c "free -h | awk \'/^Mem/ {print $3}\'"', 10)
-    local weather = awful.widget.watch('bash -c "inxi -w | awk \'/temperature/ {print int($3  + 0.5)}\' |  sed \'s/$/°C/\'"', 300)
+    local weather = awful.widget.watch('bash -c "curl wttr.in/diamantina?format=%c |  sed \'s/ //g\' && curl wttr.in/diamantina?format=%t |  sed \'s/+//g\'"' , 300)
+    local weather_condition = awful.widget.watch(
+      'bash -c "curl wttr.in/diamantina?format=%c"',
+       300,
+        function(widget, stdout)
+        widget:set_text(stdout)
+      end
+    )
 
     -- Info widget
     local Temp = wibox.widget{
@@ -139,7 +146,7 @@ local TopPanel = function(s)
     }
     local separator = wibox.widget{
       markup = '<span color="#3f6cad">|</span>',
-      font = 'JetBrainsMono Nerd Font 16',
+      font = 'JetBrainsMono Nerd Font 17',
       align  = 'center',
       valign = 'center',
       widget = wibox.widget.textbox,
@@ -159,13 +166,17 @@ local TopPanel = function(s)
       widget = wibox.widget.textbox,
     }
     local clock = wibox.widget{
-      weather_icon,
-      weather,
+      --weather_condition,
+      --weather_icon,
+      --weather,
+      wibox.container.margin(weather, 1, 1, 5, 5),
       separator,
-      my_textclock,
+      wibox.container.margin(my_textclock, 1, 1, 1, 1),
+      --my_textclock,
       separator,
-      textclock,
-      layout = wibox.layout.fixed.horizontal,
+      wibox.container.margin(textclock, 1, 1, 6, 5),
+      --textclock,
+      layout = wibox.layout.fixed.horizontal
     }
     
     
@@ -181,7 +192,7 @@ local TopPanel = function(s)
         {
           layout = wibox.layout.fixed.horizontal,
           TagList(s),
-          spacer,
+          separator,
           TaskList(s),
           
         },
@@ -201,7 +212,6 @@ local TopPanel = function(s)
           separator,
           wibox.container.margin(systray, 6, 0, 6, 4),
           separator,
-
           LayoutBox(s),
         },
       },

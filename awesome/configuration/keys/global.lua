@@ -222,7 +222,7 @@ local globalKeys =
     {modkey},
     'm',
     function()
-      awful.spawn('alacritty -e bpytop')
+      awful.spawn('alacritty -o font.size=4.5 -e bpytop')
     end
   ),
   awful.key(

@@ -130,7 +130,7 @@ local TagList = function(s)
           end
         end
       ),
-      awful.button({}, 3, awful.tag.viewtoggle),
+      awful.button({}, 2, awful.tag.viewtoggle),
       awful.button(
         {modkey},
         3,
@@ -157,7 +157,6 @@ local TagList = function(s)
     ),
     {},
     list_update
-    --wibox.layout.fixed.veritcal()
   )
 end
 return TagList
