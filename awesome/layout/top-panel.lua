@@ -18,10 +18,10 @@ local systray = wibox.widget.systray()
   beautiful.systray_icon_spacing = 2
 
   -- Clock / Calendar 24h format (using as data / calendar)
-local textclock = wibox.widget.textclock('<span font="JetBrainsMono Nerd Font Mono 11">%d/%m  </span>')
+local textclock = wibox.widget.textclock('<span font="JetBrainsMono Nerd Font Mono 12">%A, %d/%m/%y</span>')
 
- --Center Clock
-local my_textclock = wibox.widget.textclock('<span font="JetBrainsMono Nerd Font Mono bold 17">%H:%M</span>')
+  --Center Clock
+local my_textclock = wibox.widget.textclock('<span font="JetBrainsMono Nerd Font Mono bold 14">%H:%M</span>')
 
 -- Add a calendar (credits to kylekewley for the original code)
 local month_calendar = awful.widget.calendar_popup.month({
@@ -30,12 +30,10 @@ local month_calendar = awful.widget.calendar_popup.month({
   opacity = 0.8,
   week_numbers = false,
 })
-month_calendar:attach(my_textclock, 'tm')
+month_calendar:attach(my_textclock, 'tl')
 month_calendar.shape = function(cr, w, h)
   gears.shape.rounded_rect(cr, w, h, 4)
 end
-
-local clock_widget = wibox.container.margin(textclock, 13, 13, 8, 8)
 
 -- Create an imagebox widget which will contains an icon indicating which layout we're using.
 -- We need one layoutbox per screen.
@@ -88,7 +86,7 @@ local TopPanel = function(s)
       x = 10,
       y = 10,
       stretch = false,
-      bg = blacklotus.background.nrm,
+      bg = blacklotus.background.alt,
       fg = blacklotus.foreground.nrm,
     }
     )
@@ -153,31 +151,41 @@ local TopPanel = function(s)
     }
     local spacer = wibox.widget{
       markup = ' ',
-      font = 'JetBrainsMono Nerd Font 13',
+      font = 'JetBrainsMono Nerd Font 4',
       align  = 'center',
       valign = 'center',
       widget = wibox.widget.textbox,
     }
-    local weather_icon = wibox.widget{
-      markup = '󰖐 ',
-      font = 'JetBrainsMono Nerd Font bold 14',
+    local Time = wibox.widget{
+      markup = '<span color="#3f6cad"> :</span>',
+      font = 'JetBrainsMono Nerd Font bold 13',
       align  = 'center',
       valign = 'center',
-      widget = wibox.widget.textbox,
+      widget = wibox.widget.textbox
     }
-    local clock = wibox.widget{
-      --weather_condition,
-      --weather_icon,
-      --weather,
-      wibox.container.margin(weather, 1, 1, 5, 5),
-      separator,
-      wibox.container.margin(my_textclock, 1, 1, 1, 1),
-      --my_textclock,
-      separator,
-      wibox.container.margin(textclock, 1, 1, 6, 5),
-      --textclock,
-      layout = wibox.layout.fixed.horizontal
+    local Date = wibox.widget{
+      markup = '<span color="#3f6cad"> :</span>',
+      font = 'JetBrainsMono Nerd Font bold 13',
+      align  = 'center',
+      valign = 'center',
+      widget = wibox.widget.textbox
     }
+    local Temperature = wibox.widget{
+      markup = '<span color="#3f6cad"> :</span>',
+      font = 'JetBrainsMono Nerd Font bold 13',
+      align  = 'center',
+      valign = 'center',
+      widget = wibox.widget.textbox
+    }
+    
+    --local clock = wibox.widget{
+      --wibox.container.margin(my_textclock, 2, 2, 0, 0),
+      --separator,
+      --wibox.container.margin(textclock, 2, 2, 6, 5),
+      --separator,
+      --wibox.container.margin(weather, 2, 2, 5, 5),
+      --layout = wibox.layout.fixed.horizontal
+    --}
     
     
 
@@ -191,9 +199,18 @@ local TopPanel = function(s)
         layout = wibox.layout.align.horizontal,
         {
           layout = wibox.layout.fixed.horizontal,
-          TagList(s),
+          spacer,
+          LayoutBox(s),
+		      separator,
+          wibox.container.margin(Time, 4, 2, 5, 5),
+          wibox.container.margin(my_textclock, 2, 2, 0, 0),
           separator,
-          TaskList(s),
+          wibox.container.margin(Date, 6, 2, 5, 5),
+          wibox.container.margin(textclock, 2, 2, 6, 5),
+          separator,
+          wibox.container.margin(Temperature, 6, 2, 5, 5),
+          wibox.container.margin(weather, 2, 2, 5, 5),
+          
           
         },
         nil,
@@ -211,12 +228,11 @@ local TopPanel = function(s)
           wibox.container.margin(cpuTemp, 2, 6, 5, 5),
           separator,
           wibox.container.margin(systray, 6, 0, 6, 4),
-          separator,
-          LayoutBox(s),
+         -- separator,
         },
       },
       {
-          clock,
+          TagList(s),
           valign = "center",
           halign = "center",
           layout = wibox.container.place

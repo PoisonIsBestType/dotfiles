@@ -1,0 +1,26 @@
+# almeida aliases
+alias task='clear && pls'
+
+alias neo='clear && neofetch'
+
+alias poke='pokemon-colorscripts -n'
+
+alias update='sudo apt update
+sudo apt upgrade
+flatpak update'
+
+alias autoclean='sudo apt autoclean
+sudo apt autoremove
+sudo apt autopurge'
+
+alias backup-home='sudo umount ~/archive
+sudo umount /recovery
+sudo rsync -axHAWXSv /home/ --progress --delete /backup/home
+sudo mount ~/archive
+sudo mount /recovery'
+
+alias backup-archive='sudo rsync -axHAWXSv ~/archive --progress --delete /backup'
+
+alias backup-recovery='sudo rsync -axHAWXSv /recovery --progress --delete /backup'
+
+

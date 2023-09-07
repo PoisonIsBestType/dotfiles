@@ -1,7 +1,7 @@
 * {
   font: "JetBrainsMono Nerd Font regular 10";
   foreground: #c8c8c8;
-  background-color: #12121260;
+  background-color: #121212;
   border: 1px;
   transparent: rgba(46, 52, 64, 0);
 }

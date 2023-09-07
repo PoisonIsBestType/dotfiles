@@ -52,7 +52,7 @@ local awesome_overrides =
 
   theme.layout_floating = theme.icons .. 'layouts/free.png'
   theme.layout_tile = theme.icons .. 'layouts/right.png'
-  theme.layout_tilebottom = theme.icons .. 'layouts/down.png'
+  theme.layout_tiletop = theme.icons .. 'layouts/down.png'
 
   -- Taglist
 

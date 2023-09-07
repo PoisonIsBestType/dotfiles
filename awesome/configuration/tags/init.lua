@@ -35,7 +35,7 @@ local tags = {
   {
     icon = icons.media,
     type = 'media',
-    layout = awful.layout.suit.tile.bottom,
+    layout = awful.layout.suit.tile.top,
     defaultApp = apps.default.media,
     screen = 1
   },
@@ -58,7 +58,7 @@ local tags = {
 
 awful.layout.layouts = {
   awful.layout.suit.tile,
-  awful.layout.suit.tile.bottom,
+  awful.layout.suit.tile.top,
   awful.layout.suit.floating
 }
 

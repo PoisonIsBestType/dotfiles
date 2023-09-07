@@ -54,3 +54,10 @@ Traceback (most recent call last):
   File "/usr/bin/bpytop", line 798, in __exit__
     termios.tcsetattr(self.stream, termios.TCSANOW, self.original_stty)
 termios.error: (5, 'Input/output error')
+05/09/23 (14:49:32) | ERROR: Incorrectly formatted hexadecimal rgb string: ##f9ff50
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1157, in __init__
+    raise ValueError(f'Incorrectly formatted hexadecimal rgb string: {self.hexa}')
+ValueError: Incorrectly formatted hexadecimal rgb string: ##f9ff50
+05/09/23 (15:48:42) | WARNING: Config key "cpu_graph_upper" does not contain an available cpu stat attribute!
+05/09/23 (15:48:42) | WARNING: Config key "cpu_graph_lower" does not contain an available cpu stat attribute!
