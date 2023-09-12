@@ -1,0 +1,74 @@
+30/07/23 (20:39:32) | ERROR: Input thread failed with exception: [Errno 5] Input/output error
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 957, in _get_key
+    input_key += sys.stdin.read(1)						#* Read 1 key safely with blocking on
+OSError: [Errno 5] Input/output error
+04/08/23 (23:22:13) | ERROR: Input thread failed with exception: [Errno 5] Input/output error
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 957, in _get_key
+    input_key += sys.stdin.read(1)						#* Read 1 key safely with blocking on
+OSError: [Errno 5] Input/output error
+05/08/23 (13:15:10) | ERROR: Input thread failed with exception: [Errno 5] Input/output error
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 957, in _get_key
+    input_key += sys.stdin.read(1)						#* Read 1 key safely with blocking on
+OSError: [Errno 5] Input/output error
+07/08/23 (18:11:06) | ERROR: Input thread failed with exception: [Errno 5] Input/output error
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 957, in _get_key
+    input_key += sys.stdin.read(1)						#* Read 1 key safely with blocking on
+OSError: [Errno 5] Input/output error
+17/08/23 (11:00:02) | ERROR: Input thread failed with exception: [Errno 5] Input/output error
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 957, in _get_key
+    input_key += sys.stdin.read(1)						#* Read 1 key safely with blocking on
+OSError: [Errno 5] Input/output error
+17/08/23 (11:00:02) | ERROR: Data collection thread failed with exception: [Errno 5] Input/output error
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 2965, in _runner
+    else: Draw.out()
+  File "/usr/bin/bpytop", line 1091, in out
+    cls.now(out)
+  File "/usr/bin/bpytop", line 1039, in now
+    print(*args, sep="", end="", flush=True)
+OSError: [Errno 5] Input/output error
+17/08/23 (14:00:17) | ERROR: Input thread failed with exception: [Errno 5] Input/output error
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 957, in _get_key
+    input_key += sys.stdin.read(1)						#* Read 1 key safely with blocking on
+OSError: [Errno 5] Input/output error
+21/08/23 (15:37:29) | ERROR: Input thread failed with exception: [Errno 5] Input/output error
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 957, in _get_key
+    input_key += sys.stdin.read(1)						#* Read 1 key safely with blocking on
+OSError: [Errno 5] Input/output error
+27/08/23 (17:48:37) | ERROR: Input thread failed with exception: [Errno 5] Input/output error
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 957, in _get_key
+    input_key += sys.stdin.read(1)						#* Read 1 key safely with blocking on
+OSError: [Errno 5] Input/output error
+01/09/23 (10:12:52) | ERROR: Input thread failed with exception: (5, 'Input/output error')
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 954, in _get_key
+    with Raw(sys.stdin):
+  File "/usr/bin/bpytop", line 798, in __exit__
+    termios.tcsetattr(self.stream, termios.TCSANOW, self.original_stty)
+termios.error: (5, 'Input/output error')
+05/09/23 (14:49:32) | ERROR: Incorrectly formatted hexadecimal rgb string: ##f9ff50
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1157, in __init__
+    raise ValueError(f'Incorrectly formatted hexadecimal rgb string: {self.hexa}')
+ValueError: Incorrectly formatted hexadecimal rgb string: ##f9ff50
+05/09/23 (15:48:42) | WARNING: Config key "cpu_graph_upper" does not contain an available cpu stat attribute!
+05/09/23 (15:48:42) | WARNING: Config key "cpu_graph_lower" does not contain an available cpu stat attribute!
+09/09/23 (18:59:23) | ERROR: Data collection thread failed with exception: 'pid'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 2959, in _runner
+    collector._draw()
+  File "/usr/bin/bpytop", line 3991, in _draw
+    ProcBox._draw_fg()
+  File "/usr/bin/bpytop", line 2638, in _draw_fg
+    f'{Mv.to(dy-1, x+1)}{THEME.proc_box(Symbol.title_left)}{Fx.b}{THEME.title(str(proc.details["pid"]))}{Fx.ub}{THEME.proc_box(Symbol.title_right)}'
+KeyError: 'pid'
+09/09/23 (18:59:24) | WARNING: Exiting with errorcode (1). Runtime 0:00:20 
+

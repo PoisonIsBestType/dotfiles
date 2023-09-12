@@ -23,4 +23,7 @@ alias backup-archive='sudo rsync -axHAWXSv ~/archive --progress --delete /backup
 
 alias backup-recovery='sudo rsync -axHAWXSv /recovery --progress --delete /backup'
 
+alias install='sudo apt install'
+alias remove='sudo apt remove'
+
 
