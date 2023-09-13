@@ -3,21 +3,6 @@
 I'm not a developer so don't expect much!
 
 This repository contains my `~/.config` backup.
-- Desktop
-
-![](./desktop.png)
-
-- Ranger
-
-![](./ranger.png)
-
-- BpyTOP
-
-![](./bpytop.png)
-
-- Text
-
-![](https://github.com/PoisonIsBestType/BlackLotus/text.png)
 
 
 Originally, shown on Reddit, [here](https://www.reddit.com/r/unixporn/comments/166sklt/awesome_blacklotus_some_noob_love_for_ya/).
