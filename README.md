@@ -17,7 +17,7 @@ This repository contains my `~/.config` backup.
 
 - Text
 
-![](PoisonIsBestType/BlackLotus/text.png)
+![](https://github.com/PoisonIsBestType/BlackLotus/text.png)
 
 
 Originally, shown on Reddit, [here](https://www.reddit.com/r/unixporn/comments/166sklt/awesome_blacklotus_some_noob_love_for_ya/).
