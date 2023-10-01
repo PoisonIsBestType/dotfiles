@@ -12,23 +12,23 @@ _______
 Index 
 </b></summary>
 
-- <a href="https://github.com/PoisonIsBestType/.config#installation">Instalation</a>
+- <a href="https://github.com/PoisonIsBestType/dotfiles#installation">Instalation</a>
 
-- <a href="https://github.com/PoisonIsBestType/.config#program-list">Program List</a>
+- <a href="https://github.com/PoisonIsBestType/dotfilesg#program-list">Program List</a>
 
-- <a href="https://github.com/PoisonIsBestType/.config#blacklotus-theme">BlackLotus theme-files</a>
+- <a href="https://github.com/PoisonIsBestType/dotfiles#blacklotus-theme">BlackLotus theme-files</a>
 
-- <a href="https://github.com/PoisonIsBestType/.config#oldbook-theme">OldBook theme-files</a>
+- <a href="https://github.com/PoisonIsBestType/dotfiles#oldbook-theme">OldBook theme-files</a>
 
-- <a href="https://github.com/PoisonIsBestType/.config#dependencies">Dependencies</a>
+- <a href="https://github.com/PoisonIsBestType/dotfiles#dependencies">Dependencies</a>
 
-- <a href="https://github.com/PoisonIsBestType/.config#clone-the-files">Clone</a>
+- <a href="https://github.com/PoisonIsBestType/dotfiles#clone-the-files">Clone</a>
 
-- <a href="https://github.com/PoisonIsBestType/.config#set-the-themes">Set themes</a>
+- <a href="https://github.com/PoisonIsBestType/dotfiles#set-the-themes">Set themes</a>
 
-- <a href="https://github.com/PoisonIsBestType/.config#awesome-keybinds">Keybinds</a>
+- <a href="https://github.com/PoisonIsBestType/dotfiles#awesome-keybinds">Keybinds</a>
 
-- <a href="https://github.com/PoisonIsBestType/.config#documentation">Documentation</a>
+- <a href="https://github.com/PoisonIsBestType/dotfiles#documentation">Documentation</a>
 
 
 
@@ -84,7 +84,7 @@ _______
 _______
 
 ### Dependencies:
-<i>(most are optional, see [Program list](https://github.com/PoisonIsBestType/.config/blob/main/README.md#program-list))</i>
+<i>(most are optional, see [Program list](https://github.com/PoisonIsBestType/dotfiles/blob/main/README.md#program-list))</i>
 
 #### - OpenSUSE Tumbleweed:
 ```
@@ -117,16 +117,20 @@ _______
 ### Clone the files
 
 ```
-git clone --depth=1 --recursive https://github.com/PoisonIsBestType/.config.git
+git clone --depth=1 --recursive https://github.com/PoisonIsBestType/dotfiles.git
 cd dotfiles
-cp -r home/.config/* ~/.config/
-cp -r home/.fonts ~/
-cp -r home/.icons ~/
-cp -r home/.local/bin ~/.local
-cp -r home/.themes ~/
-cp home/.xinitrc ~/
-cp home/.Xresources ~/
-cp home/.gtkrc-2.0 ~/ 
+cp -r alacritty ~/.config/
+mkdir ~/.config/awesome
+cp -r awesome/awesome-suse/* ~/.config/awesome/
+cp -r bpytop ~/.config/
+cp -r cava ~/.config/
+cp -r gtk-3.0 ~/.config/
+cp -r neofetch ~/.config/
+cp -r ranger ~/.config/
+cp -r rofi ~/.config/
+cp -r theme-files/fonts ~/.fonts
+cp -r theme-files/icons ~/.icons
+cp -r theme-files/themes ~/.themes
 ```
 
 
