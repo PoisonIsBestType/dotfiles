@@ -18,7 +18,9 @@ Avaliable in two colorschemes: BlackLotus (dark theme) and OldBook (light theme)
 
 _______
 
-## ISNTALLATION
+## INSTALLATION
+
+_______
 
 
 ### Program list (essential):
@@ -47,11 +49,11 @@ _______
 - [Adwaita] as icon theme
 - [Sunity-cursors](https://www.gnome-look.org/p/1703043) as cursor theme
 
-
+_______
 
 ### Dependencies (most are optional, see 'Program list':
 
-- OpenSUSE Tumbleweed:
+#### - OpenSUSE Tumbleweed:
 ```
 sudo zypper install awesome awesome-extra picom polkit polkit-gnome arandr feh lxappearance opi timeshift alacritty rofi neovim ranger xclip nemo xfce4-power-manager file-roller firefox xfce4-screenshooter neofetch cava gimp udisks2 gparted vlc xed transmission evince git xbacklight flatpak
 ```
@@ -62,9 +64,8 @@ opi i3lock-color
 flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
 flatpak install spotify vscodium citra
 ```
-__
 
-- Linux Mint:
+#### - Linux Mint:
 ```
 sudo apt install awesome awesome-extra picom policykit-1-gnome arandr feh lxappearance timeshift alacritty rofi neovim ranger xclip nemo xfce4-power-manager file-roller firefox xfce4-screenshooter neofetch cava gimp udisks2 gparted vlc xed transmission evince git xbacklight flatpak
 ```
@@ -77,7 +78,7 @@ sudo apt-get install i3lock-color
 flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
 flatpak install spotify vscodium citra
 ```
-
+_______
 
 
 ### Clone the files
@@ -92,7 +93,7 @@ Then place them into their respective folders:
 - `~` for `bash`
 - `/lib/python3.11/site-packages/ranger/colorschemes` or `/lib/python3/dist-packages/ranger/colorschemes`for `ranger/*.py` 
 
-
+_______
 
 ### Set the themes
 
