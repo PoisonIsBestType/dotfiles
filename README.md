@@ -14,7 +14,7 @@ Index
 
 - <a href="https://github.com/PoisonIsBestType/dotfiles#setup">Setup</a>
 
-- <a href="https://github.com/PoisonIsBestType/dotfilesg#program-list">Program List</a>
+- <a href="https://github.com/PoisonIsBestType/dotfiles#program-list">Program List</a>
 
 - <a href="https://github.com/PoisonIsBestType/dotfiles#blacklotus-theme">BlackLotus theme-files</a>
 
