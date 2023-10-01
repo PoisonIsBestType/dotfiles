@@ -3,7 +3,7 @@
 
 _______
 
-## A Keyboard centered with good mouse support experience.
+## A keyboard centered, with good mouse support, experience.
 
 This dotfiles are meant to be used with both ```OpenSuse Tumbleweed``` and ```Linux Mint``` with ```awesomewm``` as desktop environment, but they work with any other distro with some tinkering.
 
