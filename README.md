@@ -7,6 +7,22 @@ _______
 #### Original desing by [PapyElGringo](https://github.com/material-shell/material-awesome), this version is based on [ChrisTitusTech](https://github.com/ChrisTitusTech/titus-awesome) fork.
 
 _______
+<details>
+<summary><b>
+Index 
+</b></summary>
+-[]()
+-[]()
+-[]()
+-[]()
+-[]()
+-[]()
+-[]()
+-[]()
+-[]()
+
+</details>
+_______
 
 This dotfiles are meant to be used with both ```OpenSuse Tumbleweed``` and ```Linux Mint``` with ```awesomewm``` as desktop environment, but they could work on any other distro with some tinkering.
 
