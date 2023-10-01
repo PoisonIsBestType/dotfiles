@@ -15,8 +15,8 @@ from ranger.gui.color import (
 )
 
 
-class Blacklotus(ColorScheme):
-    progress_bar_color = magenta
+class Oldbook(ColorScheme):
+    progress_bar_color = cyan
 
     def use(self, context):  # pylint: disable=too-many-branches,too-many-statements
         fg, bg, attr = default_colors
@@ -34,22 +34,22 @@ class Blacklotus(ColorScheme):
                 fg = default
                 bg = red
             if context.border:
-                fg = magenta
+                fg = default
                 fg += BRIGHT
             if context.media:
                 if context.image:
-                    fg = magenta
+                    fg = cyan
                     fg += BRIGHT
                 else:
-                    fg = magenta
+                    fg = cyan
             if context.container:
                 fg = red
                 fg += BRIGHT
             if context.directory:
                 fg = default
                 if context.selected:
-                    fg = blue
-                    bg = black
+                    fg = red
+                    bg = default
             elif context.executable and not \
                     any((context.media, context.container,
                          context.fifo, context.socket)):
@@ -108,7 +108,7 @@ class Blacklotus(ColorScheme):
                     bg = red
                     bg += BRIGHT
             elif context.directory:
-                fg = magenta
+                fg = red
                 fg += BRIGHT
             elif context.tab:
                 fg = green if context.good else green
