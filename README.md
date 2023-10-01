@@ -1,10 +1,10 @@
 <h1 align="center"> DotFiles,</h1>
 <h3 align="center"><i>almeida's</i> <b>.config</b> <i>backup & a noob's work in progress.</i> </h3>
 
-#### Original desing by [PapyElGringo](https://github.com/material-shell/material-awesome), this version is based on [ChrisTitusTech](https://github.com/ChrisTitusTech/titus-awesome) fork.
 _______
 
 ## A keyboard centered, with good mouse support, experience.
+#### Original desing by [PapyElGringo](https://github.com/material-shell/material-awesome), this version is based on [ChrisTitusTech](https://github.com/ChrisTitusTech/titus-awesome) fork.
 
 This dotfiles are meant to be used with both ```OpenSuse Tumbleweed``` and ```Linux Mint``` with ```awesomewm``` as desktop environment, but they work with any other distro with some tinkering.
 
