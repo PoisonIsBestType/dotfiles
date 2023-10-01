@@ -1,5 +1,5 @@
 <h1 align="center"> DotFiles,</h1>
-<h2><i>almeida's .config backup & a noob's work in progress</i> </h2>
+<h3 align="center"><i>almeida's .config backup & a noob's work in progress</i> </h3>
 _______
 
 ## A Keyboard driven with good mouse support experience,A noob's work in progress!
