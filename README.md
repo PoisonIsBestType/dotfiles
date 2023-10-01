@@ -43,7 +43,7 @@ Avaliable in two colorschemes: BlackLotus (dark) and OldBook (light).
 - BlackLotus:
 ![](./desktop-blacklotus.png)
 
-- OldBook<i>(not final)</i>:
+- OldBook <i>(not final)</i>:
 ![](./desktop-oldbook.png)
 
 
