@@ -13,15 +13,14 @@ Index
 </b></summary>
 
 <a href="https://github.com/PoisonIsBestType/.config#installation">Instalation</a>
-<a href="url">link text</a>
-<a href="url">link text</a>
-<a href="url">link text</a>
-<a href="url">link text</a>
-<a href="url">link text</a>
-<a href="url">link text</a>
-<a href="url">link text</a>
-<a href="url">link text</a>
-<a href="url">link text</a>
+<a href="https://github.com/PoisonIsBestType/.config#program-list">Program List</a>
+<a href="https://github.com/PoisonIsBestType/.config#blacklotus-theme">BlackLotus theme-files</a>
+<a href="https://github.com/PoisonIsBestType/.config#oldbook-theme">OldBook theme-files</a>
+<a href="https://github.com/PoisonIsBestType/.config#dependencies">Dependencies</a>
+<a href="https://github.com/PoisonIsBestType/.config#clone-the-files">Clone</a>
+<a href="https://github.com/PoisonIsBestType/.config#set-the-themes">Set themes</a>
+<a href="https://github.com/PoisonIsBestType/.config#awesome-keybinds">Keybinds</a>
+<a href="https://github.com/PoisonIsBestType/.config#documentation">Documentation</a>
 
 
 </details>
