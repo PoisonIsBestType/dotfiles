@@ -1,10 +1,11 @@
 <h1 align="center"> DotFiles,</h1>
-<h3 align="center"><i>almeida's</i> <b>.config</b> <i>backup & a noob's work in progress</i> </h3>
+<h3 align="center"><i>almeida's</i> <b>.config</b> <i>backup & a noob's work in progress.</i> </h3>
+
 _______
 
 ## A Keyboard centered with good mouse support experience.
 
-This dotfiles are meant to be used with both ```OpenSuse Tumbleweed``` and ```Linux Mint``` with ```awesomewm``` as desktop environment, but it works with any other distro with some tinkering.
+This dotfiles are meant to be used with both ```OpenSuse Tumbleweed``` and ```Linux Mint``` with ```awesomewm``` as desktop environment, but they work with any other distro with some tinkering.
 
 Avaliable in two colorschemes: BlackLotus (dark theme) and OldBook (light theme).
 
