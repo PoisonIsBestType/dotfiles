@@ -10,7 +10,7 @@ _______
 
 This dotfiles are meant to be used with both ```OpenSuse Tumbleweed``` and ```Linux Mint``` with ```awesomewm``` as desktop environment, but they could work on any other distro with some tinkering.
 
-Avaliable in two colorschemes: BlackLotus (dark theme) and OldBook (light theme).
+Avaliable in two colorschemes: BlackLotus (dark) and OldBook (light).
 
 - BlackLotus:
 ![](./desktop-blacklotus.png)
