@@ -118,6 +118,17 @@ _______
 
 ```
 git clone https://github.com/PoisonIsBestType/.config
+
+git clone --depth=1 --recursive https://github.com/Sinomor/dotfiles.git
+cd dotfiles
+cp -r home/.config/* ~/.config/
+cp -r home/.fonts ~/
+cp -r home/.icons ~/
+cp -r home/.local/bin ~/.local
+cp -r home/.themes ~/
+cp home/.xinitrc ~/
+cp home/.Xresources ~/
+cp home/.gtkrc-2.0 ~/ 
 ```
 
 
@@ -139,7 +150,22 @@ Place the content from ```gtk-3.0``` in both `~/.config/gtk-3.0/` and `/root/.co
 _______
 
 ### Awesome Keybinds:
-TODO
+| File or directory | Recommended directory | Description |
+|-------------------|-----------------------|-------------|
+| `Super` | `F4` | Exit screen |
+| `Super` | `F4` | Exit screen |
+| `Super` | `F4` | Exit screen |
+| `Super` | `F4` | Exit screen |
+| `Super` | `F4` | Exit screen |
+| `Super` | `F4` | Exit screen |
+| `Super` | `F4` | Exit screen |
+| `Super` | `F4` | Exit screen |
+| `Super` | `F4` | Exit screen |
+| `Super` | `F4` | Exit screen |
+| `Super` | `F4` | Exit screen |
+| `Super` | `F4` | Exit screen |
+| `Super` | `F4` | Exit screen |
+
 
 _______
 
