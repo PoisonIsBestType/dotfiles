@@ -26,13 +26,13 @@ _______
 - [JetBrainsMono Nerd Font](https://www.nerdfonts.com/font-downloads) as the **font**
 - [Alacritty](https://github.com/alacritty/alacritty) for terminal-emulator
 - [Rofi](https://github.com/DaveDavenport/rofi) for the app launcher
-- [Nemo] for file-manager
+- [Nemo](https://github.com/linuxmint/nemo) for file-manager
 - [picom](https://github.com/yshui/picom) for the compositor (blur and animations)
-- [feh] as background setter
+- [feh](https://github.com/derf/feh) as background setter
 - [i3lock-color](https://github.com/Raymo111/i3lock-color) as the lockscreen application
-- [gnome-polkit] recommend using the gnome-polkit as it integrates nicely for elevating programs that need root access
+- [gnome-polkit](https://developer-old.gnome.org/platform-overview/unstable/tech-polkit.html.en) recommend using the gnome-polkit as it integrates nicely for elevating programs that need root access
 - [lxappearance](https://sourceforge.net/projects/lxde/files/LXAppearance/) to set up the gtk and icon theme
-- [xfce4-screenshooter] as screenshot app
+- [xfce4-screenshooter](https://docs.xfce.org/apps/screenshooter/start) as screenshot app
 - [network-manager-applet](https://gitlab.gnome.org/GNOME/network-manager-applet) nm-applet is a Network Manager Tray display from GNOME.
 - [xfce4-power-manager](https://docs.xfce.org/xfce/xfce4-power-manager/start) XFCE4's power manager is excellent and a great way of dealing with sleep, monitor timeout, and other power management features.
 
@@ -61,6 +61,7 @@ flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.f
 flatpak install spotify vscodium citra
 ```
 
+
 - Linux Mint:
 ```
 sudo apt install awesome awesome-extra picom policykit-1-gnome arandr feh lxappearance timeshift alacritty rofi neovim ranger xclip nemo xfce4-power-manager file-roller firefox xfce4-screenshooter neofetch cava gimp udisks2 gparted vlc xed transmission evince git xbacklight flatpak
@@ -83,16 +84,16 @@ git clone https://github.com/PoisonIsBestType/.config
 ```
 
 Then place them into their respective folders:
-- `~/.themes`, `~/.themes` and `~/.themes` for ```theme-files```
-- `~` for ```bash```
-- `/lib/python3.11/site-packages/ranger/colorschemes` or `/lib/python3/dist-packages/ranger/colorschemes`for ```./ranger/*.py``` 
+- `~/.themes`, `~/.icons` and `~/.fonts` for `theme-files`
+- `~` for `bash`
+- `/lib/python3.11/site-packages/ranger/colorschemes` or `/lib/python3/dist-packages/ranger/colorschemes`for `ranger/*.py` 
 
 
 ### Set the themes
 
 Start `lxappearance` to activate the **icon** theme and **GTK** theme.
 
-Place the content from ```gtk-3.0``` in both `~/.config/gtk-3.0/` and `/root/.config/gtk-3.0/` for the change to also show up in applications run as root and edit `~/.icons/default/index.theme`.
+Place the content from ```gtk-3.0``` in both `~/.config/gtk-3.0/` and `/root/.config/gtk-3.0/` for the change to also show up in applications run as root. Also good to edit `~/.icons/default/index.theme` and plance the `theme-files` in their respective `/usr/share/` places.
 
 _______
 
