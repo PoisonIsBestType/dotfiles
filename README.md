@@ -117,9 +117,7 @@ _______
 ### Clone the files
 
 ```
-git clone https://github.com/PoisonIsBestType/.config
-
-git clone --depth=1 --recursive https://github.com/Sinomor/dotfiles.git
+git clone --depth=1 --recursive https://github.com/PoisonIsBestType/.config.git
 cd dotfiles
 cp -r home/.config/* ~/.config/
 cp -r home/.fonts ~/
