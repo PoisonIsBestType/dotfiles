@@ -20,6 +20,7 @@ _______
 
 ## ISNTALLATION
 
+
 ### Program list (essential):
 
 - [AwesomeWM](https://awesomewm.org/) as the window manager
@@ -47,6 +48,7 @@ _______
 - [Sunity-cursors](https://www.gnome-look.org/p/1703043) as cursor theme
 
 
+
 ### Dependencies (most are optional, see 'Program list':
 
 - OpenSUSE Tumbleweed:
@@ -60,7 +62,7 @@ opi i3lock-color
 flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
 flatpak install spotify vscodium citra
 ```
-
+__
 
 - Linux Mint:
 ```
@@ -77,11 +79,13 @@ flatpak install spotify vscodium citra
 ```
 
 
+
 ### Clone the files
 
 ```
 git clone https://github.com/PoisonIsBestType/.config
 ```
+
 
 Then place them into their respective folders:
 - `~/.themes`, `~/.icons` and `~/.fonts` for `theme-files`
@@ -89,11 +93,14 @@ Then place them into their respective folders:
 - `/lib/python3.11/site-packages/ranger/colorschemes` or `/lib/python3/dist-packages/ranger/colorschemes`for `ranger/*.py` 
 
 
+
 ### Set the themes
 
 Start `lxappearance` to activate the **icon** theme and **GTK** theme.
 
 Place the content from ```gtk-3.0``` in both `~/.config/gtk-3.0/` and `/root/.config/gtk-3.0/` for the change to also show up in applications run as root. Also good to edit `~/.icons/default/index.theme` and plance the `theme-files` in their respective `/usr/share/` places.
+
+
 
 _______
 
