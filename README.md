@@ -46,7 +46,7 @@ _______
 
   #### OldBook Theme:
 - [Breeze-Solarized-Light](https://www.gnome-look.org/p/1241238) as GTK theme 
-- [Adwaita] as icon theme
+- [Adwaita](https://gnome.pages.gitlab.gnome.org/libadwaita/) as icon theme
 - [Sunity-cursors](https://www.gnome-look.org/p/1703043) as cursor theme
 
 _______
