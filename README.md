@@ -150,7 +150,7 @@ Place the content from ```gtk-3.0``` in both `~/.config/gtk-3.0/` and `/root/.co
 _______
 
 ### Awesome Keybinds:
-| File or directory | Recommended directory | Description |
+| MOD | KEY | Description |
 |-------------------|-----------------------|-------------|
 | `Super` | `F4` | Exit screen |
 | `Super` | `F4` | Exit screen |
