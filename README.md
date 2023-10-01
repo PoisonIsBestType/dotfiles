@@ -49,7 +49,7 @@ Avaliable in two colorschemes: BlackLotus (dark) and OldBook (light).
 
 _______
 
-## INSTALLATION
+## SETUP
 
 _______
 
@@ -118,10 +118,19 @@ _______
 
 ```
 git clone --depth=1 --recursive https://github.com/PoisonIsBestType/dotfiles.git
+```
+Then place them into their respective folders:
+- `~/.themes`, `~/.icons` and `~/.fonts` for `theme-files`
+- `~` for `bash`
+- `/lib/python3.11/site-packages/ranger/colorschemes` or `/lib/python3/dist-packages/ranger/colorschemes`for `ranger/*.py`
+- `~/.config` for the rest
+
+or 
+```
+git clone --depth=1 --recursive https://github.com/PoisonIsBestType/dotfiles.git
 cd dotfiles
 cp -r alacritty ~/.config/
-mkdir ~/.config/awesome
-cp -r awesome/awesome-suse/* ~/.config/awesome/
+cp -r awesome ~/.config/
 cp -r bpytop ~/.config/
 cp -r cava ~/.config/
 cp -r gtk-3.0 ~/.config/
@@ -132,12 +141,12 @@ cp -r theme-files/fonts ~/.fonts
 cp -r theme-files/icons ~/.icons
 cp -r theme-files/themes ~/.themes
 ```
+Then:
+- Move content outside from `awesome-suse`, `awesome-mint`, `blacklotus`, `oldbook` directorys as chosen.
+- Delete the unneeded files.
+- Move `ranger/*.py` to `/lib/python3.11/site-packages/ranger/colorschemes` or `/lib/python3/dist-packages/ranger/colorschemes`.
 
 
-Then place them into their respective folders:
-- `~/.themes`, `~/.icons` and `~/.fonts` for `theme-files`
-- `~` for `bash`
-- `/lib/python3.11/site-packages/ranger/colorschemes` or `/lib/python3/dist-packages/ranger/colorschemes`for `ranger/*.py` 
 
 _______
 
