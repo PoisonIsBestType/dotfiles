@@ -39,12 +39,12 @@ _______
 - [network-manager-applet](https://gitlab.gnome.org/GNOME/network-manager-applet) nm-applet is a Network Manager Tray display from GNOME.
 - [xfce4-power-manager](https://docs.xfce.org/xfce/xfce4-power-manager/start) XFCE4's power manager is excellent and a great way of dealing with sleep, monitor timeout, and other power management features.
 
-  BlackLotus Theme:
+  #### BlackLotus Theme:
 - [Numix-BLACK-ice](https://www.gnome-look.org/p/1335655) as GTK theme 
 - [BLACK-Pomegranate-Numix](https://www.gnome-look.org/p/1335817) as icon theme
 - [Sunity-cursors](https://www.gnome-look.org/p/1703043) as cursor theme
 
-  OldBook Theme:
+  #### OldBook Theme:
 - [Breeze-Solarized-Light](https://www.gnome-look.org/p/1241238) as GTK theme 
 - [Adwaita] as icon theme
 - [Sunity-cursors](https://www.gnome-look.org/p/1703043) as cursor theme
