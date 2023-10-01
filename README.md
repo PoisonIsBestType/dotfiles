@@ -4,7 +4,7 @@
 _______
 
 ## A keyboard centered experience, with good mouse support.
-Original desing by [PapyElGringo](https://github.com/material-shell/material-awesome), this version is based on [ChrisTitusTech](https://github.com/ChrisTitusTech/titus-awesome) fork.
+Originally desing by [PapyElGringo](https://github.com/material-shell/material-awesome), this version is based on [ChrisTitusTech](https://github.com/ChrisTitusTech/titus-awesome)'s fork.
 
 _______
 <details>
@@ -59,12 +59,12 @@ _______
 
 - [AwesomeWM](https://awesomewm.org/) as the **window manager**
 - [JetBrainsMono Nerd Font](https://www.nerdfonts.com/font-downloads) as the **font**
-- [Alacritty](https://github.com/alacritty/alacritty) for **terminal-emulator**
+- [Alacritty](https://github.com/alacritty/alacritty) for **terminal  emulator**
 - [Rofi](https://github.com/DaveDavenport/rofi) for the **app launcher**
 - [Nemo](https://github.com/linuxmint/nemo) for **file-manager**
 - [picom](https://github.com/yshui/picom) for the **compositor** (blur and animations)
 - [feh](https://github.com/derf/feh) as **background** setter
-- [i3lock-color](https://github.com/Raymo111/i3lock-color) as the **lockscreen** application
+- [i3lock-color](https://github.com/Raymo111/i3lock-color) as the **lockscreen** application 
 - [gnome-polkit](https://developer-old.gnome.org/platform-overview/unstable/tech-polkit.html.en) recommend using the gnome-polkit as it integrates nicely for elevating programs that need root access
 - [lxappearance](https://sourceforge.net/projects/lxde/files/LXAppearance/) to set up the **gtk** and icon theme
 - [xfce4-screenshooter](https://docs.xfce.org/apps/screenshooter/start) as **screenshot** app
@@ -155,7 +155,7 @@ _______
 
 Start `lxappearance` to activate the **icon** theme and **GTK** theme.
 
-Place the content from ```gtk-3.0``` in both `~/.config/gtk-3.0/` and `/root/.config/gtk-3.0/` for the change to also show up in applications run as root. Also good to edit `~/.icons/default/index.theme` and plance the `theme-files` in their respective `/usr/share/` places.
+Place the content from ```gtk-3.0``` in both `~/.config/gtk-3.0/` and `/root/.config/gtk-3.0/` for the change to also show up in applications run as root. Also good idea to edit `~/.icons/default/index.theme` and plance the `theme-files` in their respective `/usr/share/` places.
 
 
 
@@ -168,17 +168,17 @@ _______
 | `Super` | `F4` | Exit screen |
 | `Super` | `F5` | Reload awesome |
 | `Super` | `Pause` | Lock screen |
-| `Super` | `F4` | Exit screen |
+| `Super` | `F4` | Exit-screen |
 | `Super`+`Ctrl` | `Q` | Quit awesome |
 | `Super` | `W/A/S/D/Z/X/C` | View tag 1~7 |
 | `Super`+`Ctrl` | `W/A/S/D/Z/X/C` | Move client to tag 1~7 |
 | `Super`+`Shift` | `W/A/S/D/Z/X/C` | Toggle tag 1~7 |
 | `Super` | `Q` | Close focused client |
-| `Super` | `Enter` | Open tag's default porgram |
+| `Super` | `Enter` | Open tag's default application |
 | `Super` | `R` | Application launcher (Rofi) |
 | `Alt` | `Space` | Rofi run |
 | `Super` | `T` | Terminal |
-| `Super` | `G` | Files |
+| `Super` | `G` | File manager |
 | `Super` | `B` | Browser |
 | `Super` | `H` | Ranger |
 | `Super` | `M` | BpyTOP |
