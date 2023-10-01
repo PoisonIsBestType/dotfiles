@@ -172,7 +172,7 @@ _______
 | `Super` | `W/A/S/D/Z/X/C` | View tag 1~7 |
 | `Super`+`Ctrl` | `W/A/S/D/Z/X/C` | Move client to tag 1~7 |
 | `Super`+`Shift` | `W/A/S/D/Z/X/C` | Toggle tag 1~7 |
-| `Super` | `Q` | Close focused window |
+| `Super` | `Q` | Close focused client |
 | `Super` | `Enter` | Open tag's default porgram |
 | `Super` | `R` | Application launcher (Rofi) |
 | `Alt` | `Space` | Rofi run |
