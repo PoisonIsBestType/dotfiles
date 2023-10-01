@@ -23,7 +23,8 @@ _______
 _______
 
 
-### Program list (essential):
+### Program list:
+<i>essentials</i>
 
 - [AwesomeWM](https://awesomewm.org/) as the window manager
 - [JetBrainsMono Nerd Font](https://www.nerdfonts.com/font-downloads) as the **font**
@@ -51,7 +52,8 @@ _______
 
 _______
 
-### Dependencies (most are optional, see 'Program list':
+### Dependencies:
+<i>(most are optional, see 'Program list')</i>
 
 #### - OpenSUSE Tumbleweed:
 ```
