@@ -163,34 +163,37 @@ _______
 ### Awesome Keybinds:
 | MOD | KEY | Description |
 |-------------------|-----------------------|-------------|
-| `Super` | `W/A/S/D/Z/X/C` | Move to tags 1~7 |
+| `Super` | `F1` | Show help |
+| `Super` | `F4` | Exit screen |
+| `Super` | `F5` | Reload awesome |
+| `Super` | `Pause` | Lock screen |
+| `Super` | `F4` | Exit screen |
+| `Super`+`Ctrl` | `Q` | Quit awesome |
+| `Super` | `W/A/S/D/Z/X/C` | View tag 1~7 |
+| `Super`+`Ctrl` | `W/A/S/D/Z/X/C` | Move client to tag 1~7 |
+| `Super`+`Shift` | `W/A/S/D/Z/X/C` | Toggle tag 1~7 |
 | `Super` | `Q` | Close focused window |
 | `Super` | `Enter` | Open tag's default porgram |
 | `Super` | `R` | Application launcher (Rofi) |
+| `Alt` | `Space` | Rofi run |
 | `Super` | `T` | Terminal |
 | `Super` | `G` | Files |
 | `Super` | `B` | Browser |
+| `Super` | `H` | Ranger |
+| `Super` | `M` | BpyTOP |
 | `Super` | `Tab` | Last tag |
 | `Super` | `=` | Next tag |
 | `Super` | `-` | Previous tag |
-| `Super` | `F4` | Exit screen |
-| `Super` | `F4` | Exit screen |
-| `Super` | `F4` | Exit screen |
-| `Super` | `F4` | Exit screen |
-| `Super` | `F4` | Exit screen |
-| `Super` | `F4` | Exit screen |
-| `Super` | `F4` | Exit screen |
-| `Super` | `F4` | Exit screen |
-| `Super` | `F4` | Exit screen |
-| `Super` | `F4` | Exit screen |
-| `Super` | `F4` | Exit screen |
-| `Super` | `F4` | Exit screen |
-| `Super` | `F4` | Exit screen |
-| `Super` | `F4` | Exit screen |
-| `Super` | `F4` | Exit screen |
-| `Super` | `F4` | Exit screen |
-| `Super` | `F4` | Exit screen |
-| `Super` | `F4` | Exit screen |
+| `Super` | `Up` | Focus client above |
+| `Super` | `Down` | Focus client below |
+| `Super` | `Left` | Focus client to the left |
+| `Super` | `Right` | Focus client to the right |
+| `Super`+`Ctrl` | `Up` | Move focused client up |
+| `Super`+`Ctrl` | `Down` | Move focused client down |
+| `Super`+`Ctrl` | `Left` | Move focused client left|
+| `Super`+`Ctrl` | `Right` | Move focused client right |
+| `Super` | `Space` | Toggle client floating |
+| `Super`+`Shift` | `Space` | Select next layout |
 
 
 _______
