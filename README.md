@@ -160,7 +160,7 @@ Place the content from ```gtk-3.0``` in both `~/.config/gtk-3.0/` and `/root/.co
 
 _______
 
-### Awesome Keybinds:
+### Keybinds:
 | MOD | KEY | Description |
 |-------------------|-----------------------|-------------|
 | `Super` | `F1` | Show help |
