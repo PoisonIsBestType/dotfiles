@@ -45,9 +45,9 @@ draw_bold_text_with_bright_colors: true
 colors:
   # Default colors
   primary:
-    background: '#f1eddd'
-    foreground: '#585148'
-    bright_foreground: '#784f31'
+    background: '#121212'
+    foreground: '#c8c8c8'
+    bright_foreground: '#ffffff'
   cursor:
     text: CellBackground
     cursor: CellForeground
@@ -56,20 +56,20 @@ colors:
     cursor: CellForeground
   search:
     matches:
-      foreground: '#784f31'
-      background: '#ddd3c9'
+      foreground: '#191919'
+      background: '#c8cc86'
     focused_match:
-      foreground: '#784f31'
-      background: '#dac9aa'
+      foreground: '#191919'
+      background: '#d9c793'
   footer_bar:
     background: '#302e31'
     foreground: '#dcefff'
   hints:
     start:
       foreground: '#302e31'
-      background: '#dac9aa'
+      background: '#d9c793'
     end:
-      foreground: '#dac9aa'
+      foreground: '#d9c793'
       background: '#302e31'
   line_indicator:
     foreground: None
@@ -80,7 +80,7 @@ colors:
   normal:
     black: '#211f21'
     red: '#7b3e59'
-    magenta: '#C2AFA6'
+    magenta: '#553976'
     yellow: '#ae9f76'
     blue: '#3f6cad'
     green: '#798347'
@@ -89,30 +89,30 @@ colors:
   bright:
     black: '#302e31'
     red: '#a55377'
-    magenta: '#F8A27F'
-    yellow: '#dac9aa'
+    magenta: '#8853c7'
+    yellow: '#d9c793'
     blue: '#2f88ff'
     green: '#c8cc86'
     cyan: '#6dabd6'
     white: '#dcefff'
 
   indexed_colors:
-    - { index: 21, color: '#F8A27F' }
-    - { index: 22, color: '#F1A484' }
-    - { index: 23, color: '#E8A68A' }
-    - { index: 24, color: '#DFA890' }
-    - { index: 25, color: '#D6AA96' }
-    - { index: 26, color: '#CFAC9C' }
-    - { index: 27, color: '#C8AEA1' }
-    - { index: 28, color: '#C2AFA6' }
-    - { index: 29, color: '#BCB1AB' }
-    - { index: 30, color: '#B6B2AF' }
-    - { index: 31, color: '#AEB4B5' }
-    - { index: 32, color: '#A5B6BB' }
-    - { index: 33, color: '#9EB8C1' }
-    - { index: 34, color: '#95BAC7' }
-    - { index: 35, color: '#8CBCCD' }
-    - { index: 36, color: '#7CC0D8' }
+    - { index: 21, color: '#2f88ff' }
+    - { index: 22, color: '#3684FA' }
+    - { index: 23, color: '#3C81F7' }
+    - { index: 24, color: '#437EF3' }
+    - { index: 25, color: '#497AEF' }
+    - { index: 26, color: '#4F77EB' }
+    - { index: 27, color: '#5573E7' }
+    - { index: 28, color: '#5B70E4' }
+    - { index: 29, color: '#616CE0' }
+    - { index: 30, color: '#6768DC' }
+    - { index: 31, color: '#6D64D8' }
+    - { index: 32, color: '#7261D5' }
+    - { index: 33, color: '#775ED2' }
+    - { index: 34, color: '#7C5BCF' }
+    - { index: 35, color: '#8257CB' }
+    - { index: 36, color: '#8853c7' }
 
 
 cursor:
