@@ -6,6 +6,8 @@ _______
 ## A keyboard centered, with good mouse support, experience.
 #### Original desing by [PapyElGringo](https://github.com/material-shell/material-awesome), this version is based on [ChrisTitusTech](https://github.com/ChrisTitusTech/titus-awesome) fork.
 
+_______
+
 This dotfiles are meant to be used with both ```OpenSuse Tumbleweed``` and ```Linux Mint``` with ```awesomewm``` as desktop environment, but they work with any other distro with some tinkering.
 
 Avaliable in two colorschemes: BlackLotus (dark theme) and OldBook (light theme).
