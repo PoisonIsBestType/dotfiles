@@ -163,6 +163,21 @@ _______
 ### Awesome Keybinds:
 | MOD | KEY | Description |
 |-------------------|-----------------------|-------------|
+| `Super` | `W/A/S/D/Z/X/C` | Move to tags 1~7 |
+| `Super` | `Q` | Close focused window |
+| `Super` | `Enter` | Open tag's default porgram |
+| `Super` | `R` | Application launcher (Rofi) |
+| `Super` | `T` | Terminal |
+| `Super` | `G` | Files |
+| `Super` | `B` | Browser |
+| `Super` | `Tab` | Last tag |
+| `Super` | `=` | Next tag |
+| `Super` | `-` | Previous tag |
+| `Super` | `F4` | Exit screen |
+| `Super` | `F4` | Exit screen |
+| `Super` | `F4` | Exit screen |
+| `Super` | `F4` | Exit screen |
+| `Super` | `F4` | Exit screen |
 | `Super` | `F4` | Exit screen |
 | `Super` | `F4` | Exit screen |
 | `Super` | `F4` | Exit screen |
