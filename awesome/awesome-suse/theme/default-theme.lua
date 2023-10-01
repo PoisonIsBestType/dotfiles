@@ -6,20 +6,15 @@ local oldbook = require('theme.oldbook')
 
 local theme = {}
 
-theme.icons = theme_dir .. '/icons/'
-theme.font = 'JetBrainsMono Nerd Font medium 12px'
-
-
 -- CHANGE COLORS HERE
 colorscheme = blacklotus
--- also have to change textbox markups (<span>) on layout/top-panel.lua
+theme.icons = theme_dir .. '/icons/blacklotus/'
+-- also <span> on "layout/top-panel.lua" & "widget/net-speed/net-speed.lua"
 -- currently is = "#3f6cad"
-
 
 local awesome_overrides =
   function(theme)
   theme.dir = os.getenv('HOME') .. '/.config/awesome/theme'
-  theme.icons = theme.dir .. '/icons/'
   theme.font = 'JetBrainsMono Nerd Font medium 12px'
   theme.title_font = 'JetBrainsMono Nerd Font medium 13px'
   --Colors
