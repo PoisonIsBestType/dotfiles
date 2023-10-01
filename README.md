@@ -12,9 +12,9 @@ _______
 Index 
 </b></summary>
 
-<a href="https://github.com/PoisonIsBestType/.config#installation">Instalation</a>
+- <a href="https://github.com/PoisonIsBestType/.config#installation">Instalation</a>
 
-<a href="https://github.com/PoisonIsBestType/.config#program-list">Program List</a>
+- <a href="https://github.com/PoisonIsBestType/.config#program-list">Program List</a>
 
 <a href="https://github.com/PoisonIsBestType/.config#blacklotus-theme">BlackLotus theme-files</a>
 
