@@ -12,7 +12,7 @@ _______
 Index 
 </b></summary>
 
-<a href="[url](https://github.com/PoisonIsBestType/.config#installation)">Instalation</a>
+<a href="https://github.com/PoisonIsBestType/.config#installation">Instalation</a>
 <a href="url">link text</a>
 <a href="url">link text</a>
 <a href="url">link text</a>
