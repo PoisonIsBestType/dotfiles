@@ -137,9 +137,9 @@ cp -r gtk-3.0 ~/.config/
 cp -r neofetch ~/.config/
 cp -r ranger ~/.config/
 cp -r rofi ~/.config/
-cp -r theme-files/fonts ~/.fonts
-cp -r theme-files/icons ~/.icons
-cp -r theme-files/themes ~/.themes
+cp -r theme-files/fonts/ ~/.fonts
+cp -r theme-files/icons/ ~/.icons
+cp -r theme-files/themes/ ~/.themes
 ```
 Then:
 - Move content outside from `awesome-suse`, `awesome-mint`, `blacklotus`, `oldbook` directorys as chosen.
