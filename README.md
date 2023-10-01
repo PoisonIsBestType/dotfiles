@@ -1,7 +1,5 @@
 <h1 align="center"> DotFiles,</h1>
-<h3 align="center"><i>almeida's</i> <b>.config</b> <i>backup 
-& 
-a noob's work in progress.</i> </h3>
+<h3 align="center"><i>almeida's</i> <b>.config</b> <i>backup & a noob's work in progress.</i> </h3>
 
 _______
 
