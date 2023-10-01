@@ -89,7 +89,7 @@ local TopPanel = function(s)
   beautiful.systray_icon_spacing = 2
 
   -- Clock
-  local my_textclock = wibox.widget.textclock('<span font="JetBrainsMono Nerd Font Mono bold 14px"><span color="#DECFFF">%H:%M</span></span>')
+  local my_textclock = wibox.widget.textclock('<span font="JetBrainsMono Nerd Font Mono bold 14px">%H:%M</span>')
   
   local Time = wibox.widget{
     markup = '<span color="#3f6cad">󱑍 </span>',
