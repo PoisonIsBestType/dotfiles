@@ -56,7 +56,7 @@ _______
 _______
 
 ### Dependencies:
-<i>(most are optional, see 'Program list')</i>
+<i>(most are optional, see [Program list](https://github.com/PoisonIsBestType/.config/blob/main/README.md#program-list))</i>
 
 #### - OpenSUSE Tumbleweed:
 ```
