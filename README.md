@@ -5,7 +5,7 @@ _______
 
 ### A noob's work in progress!
 
-This dotfiles are meant to be used with both Linux Mint and OpenSuse Tumbleweed with ```awesomewm``` as desktop environment.
+This dotfiles are meant to be used with both ```Linux Mint``` and ```OpenSuse Tumbleweed``` with ```awesomewm``` as desktop environment.
 
 A Keyboard driven with good mouse support experience, avaliable in two colorschemes BlackLotus (dark theme) and OldBook (light theme).
 
