@@ -1,6 +1,7 @@
 * {
   bg-normal: #121212;
   bg-alt: #191919;
+  bg-fcs: #302E31;
   fg-normal: #C8C8C8;
   fg-alt: #ABABAB;
   accent-normal: #3F6CAD;

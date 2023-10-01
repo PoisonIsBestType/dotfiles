@@ -78,7 +78,7 @@ element-icon {
 }
 
 element selected.normal {
-  background-color: @accent-normal;
+  background-color: @bg-fcs;
   border: 2px;
   border-color: @accent-normal-brt;
   border-radius: 10px;
