@@ -1,0 +1,89 @@
+@import "~/.config/rofi/blacklotus.rasi"
+
+* {
+  font: "JetBrainsMono Nerd Font regular 10";
+  foreground: @fg-normal;
+  background-color: @bg-normal;
+  border: 1px;
+}
+
+window {
+  width: 48%;
+  height: 48%;
+
+  orientation: horizontal;
+  location: center;
+  anchor: center;
+  border: 3px;
+  border-color: @accent-normal;
+  border-radius: 10px;
+  spacing: 0;
+  children: [ mainbox ];
+}
+
+mainbox {
+  spacing: 0;
+  children: [ inputbar, message, listview ];
+}
+
+inputbar {
+  color: @bg-normal;
+  margin: 10px;
+  padding: 10px;
+  border: 3px;
+  border-color: @accent-normal;
+  border-radius: 10px;
+  
+}
+
+message {
+  border: 0;
+  padding: 0;
+}
+
+entry,
+prompt,
+case-indicator {
+  text-font: inherit;
+  text-color: @fg-normal;
+}
+
+entry {
+  cursor: pointer;
+  horizontal-align: 0.5;
+}
+
+listview {
+  layout: vertical;
+  padding: 10px;
+  lines: 12;
+  columns: 6;
+  border: 0;
+}
+
+element {
+  color: @black;
+  orientation: vertical;
+}
+
+element-text,
+element-icon {
+  background-color: inherit;
+  text-color: @fg-normal;
+  horizontal-align: 0.5;
+}
+
+element-icon {
+  size: 64;
+}
+
+element selected.normal {
+  background-color: @accent-normal;
+  border: 2px;
+  border-color: @accent-normal-brt;
+  border-radius: 10px;
+}
+
+scrollbar {
+  enabled: true;
+}

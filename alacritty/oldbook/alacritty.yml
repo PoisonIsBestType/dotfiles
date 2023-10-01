@@ -1,0 +1,123 @@
+# Configuration for Alacritty, the GPU enhanced terminal emulator.
+
+
+
+window:
+
+  padding:
+    x: 4
+    y: 4
+
+  opacity: 0.87
+
+  title: Alacritty
+
+  dynamic_title: true
+
+  class:
+    instance: Alacritty
+    general: Alacritty
+    
+  dimensions:
+    columns: 50
+    lines: 32
+  
+  position:
+    x: 445
+    y: 58
+
+scrolling:
+  history: 5000
+
+  multiplier: 5
+
+
+font:
+  
+  normal:
+    family: JetBrainsMono Nerd Font 
+    style: Regular
+  size: 5.2
+
+draw_bold_text_with_bright_colors: true
+
+
+colors:
+  # Default colors
+  primary:
+    background: '#f1eddd'
+    foreground: '#585148'
+    bright_foreground: '#784f31'
+  cursor:
+    text: CellBackground
+    cursor: CellForeground
+  vi_mode_cursor:
+    text: CellBackground
+    cursor: CellForeground
+  search:
+    matches:
+      foreground: '#784f31'
+      background: '#ddd3c9'
+    focused_match:
+      foreground: '#784f31'
+      background: '#dac9aa'
+  footer_bar:
+    background: '#302e31'
+    foreground: '#dcefff'
+  hints:
+    start:
+      foreground: '#302e31'
+      background: '#dac9aa'
+    end:
+      foreground: '#dac9aa'
+      background: '#302e31'
+  line_indicator:
+    foreground: None
+    background: None
+  selection:
+    text: CellForeground
+    background: '#302e31'
+  normal:
+    black: '#211f21'
+    red: '#7b3e59'
+    magenta: '#C2AFA6'
+    yellow: '#ae9f76'
+    blue: '#3f6cad'
+    green: '#798347'
+    cyan: '#416680'
+    white: '#adc4e3'
+  bright:
+    black: '#302e31'
+    red: '#a55377'
+    magenta: '#F8A27F'
+    yellow: '#dac9aa'
+    blue: '#2f88ff'
+    green: '#c8cc86'
+    cyan: '#6dabd6'
+    white: '#dcefff'
+
+  indexed_colors:
+    - { index: 21, color: '#F8A27F' }
+    - { index: 22, color: '#F1A484' }
+    - { index: 23, color: '#E8A68A' }
+    - { index: 24, color: '#DFA890' }
+    - { index: 25, color: '#D6AA96' }
+    - { index: 26, color: '#CFAC9C' }
+    - { index: 27, color: '#C8AEA1' }
+    - { index: 28, color: '#C2AFA6' }
+    - { index: 29, color: '#BCB1AB' }
+    - { index: 30, color: '#B6B2AF' }
+    - { index: 31, color: '#AEB4B5' }
+    - { index: 32, color: '#A5B6BB' }
+    - { index: 33, color: '#9EB8C1' }
+    - { index: 34, color: '#95BAC7' }
+    - { index: 35, color: '#8CBCCD' }
+    - { index: 36, color: '#7CC0D8' }
+
+
+cursor:
+  style:
+    blinking: Always
+  blink_interval: 500
+  blink_timeout: 0
+  unfocused_hollow: true

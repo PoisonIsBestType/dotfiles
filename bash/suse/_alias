@@ -1,0 +1,28 @@
+# almeida aliases
+alias v='nvim'
+alias sv='sudo nvim'
+
+alias task='clear && pls'
+
+alias neo='clear && neofetch'
+
+alias poke='pokemon-colorscripts -n'
+
+alias update='sudo zypper update
+sudo flatpak update'
+
+alias dup='sudo zypper dup'
+
+alias backup-home='sudo umount ~/archive
+sudo umount /recovery
+sudo rsync -axHAWXSv /home/ --progress --delete /backup/home-suse
+sudo mount ~/archive
+sudo mount /recovery'
+
+alias backup-archive='sudo rsync -axHAWXSv ~/archive --progress --delete /backup'
+
+
+alias install='sudo zypper install'
+alias remove='sudo zypper remove'
+
+
