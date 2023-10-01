@@ -1,6 +1,7 @@
 <h1 align="center"> DotFiles,</h1>
 <h3 align="center"><i>almeida's</i> <b>.config</b> <i>backup & a noob's work in progress.</i> </h3>
 
+#### Original desing by [PapyElGringo](https://github.com/material-shell/material-awesome), this version is based on [ChrisTitusTech](https://github.com/ChrisTitusTech/titus-awesome) fork.
 _______
 
 ## A keyboard centered, with good mouse support, experience.
@@ -111,6 +112,22 @@ _______
 TODO
 
 _______
+
+### Documentation
+
+The documentation live within the source code.
+
+The project is split in functional directories and in each of them there is a readme where you can get additional information about the them.
+
+* [Configuration](./awesome/awesome-suse/configuration) is about all the **settings** available
+* [Keybinds](./awesome/awesome-suse/configuration/keys/) is where all the **keybinds** are
+* [Layout](./awesome/awesome-suse/layout) hold the **disposition** of all the widgets
+* [Module](./awesome/awesome-suse/module) contain all the **features** available
+* [Theme](./awesome/awesome-suse/theme) hold all the **aesthetic** aspects
+* [Widget](./awesome/awesome-suse/widget) contain all the **widgets** available
+
+_______
+
 
 This is a noob's repository, don't expect much!
 
