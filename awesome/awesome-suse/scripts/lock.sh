@@ -59,5 +59,5 @@ i3lock \
 --time-str="%H:%M" \
 --date-str="%a, %d/%m" \
 --no-modkey-text \
-\--image="/home/almeida/.config/awesome/background/stripe.png" \
+\--image="/home/almeida/.config/awesome/background/blacklotus-stripe.png" \
 --blur 5 \
