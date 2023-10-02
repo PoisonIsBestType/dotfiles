@@ -1,6 +1,6 @@
 configuration {
     modi: ["drun", "window", "run"];
-    icon-theme: "Reversal-purple-dark";
+    icon-theme: "BLACK-Grape-Numix";
     show-icons: true;
     terminal: "alacritty";
     drun-display-format: "{icon} {name}";

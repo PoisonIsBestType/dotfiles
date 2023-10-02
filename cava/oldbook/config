@@ -151,8 +151,8 @@
 ; foreground = default
 
 # SDL only support hex code colors, these are the default:
-; background = '#111111'
-; foreground = '#33cccc'
+; background = '#E9E2C9'
+; foreground = '#585148'
 
 
 # Gradient mode, only hex defined colors are supported,
