@@ -11,6 +11,7 @@
 local awful = require("awful")
 local wibox = require("wibox")
 local watch = require("awful.widget.watch")
+local beautiful = require('beautiful') 
 
 local function ellipsize(text, length)
     -- utf8 only available in Lua 5.3+
@@ -28,8 +29,8 @@ local function worker(user_args)
 
     local args = user_args or {}
 
-    local play_icon = args.play_icon or '/home/almeida/.config/awesome/widget/spotify/play.png'
-    local pause_icon = args.pause_icon or '/home/almeida/.config/awesome/widget/spotify/pause.png'
+    local play_icon = args.play_icon or beautiful.icons .. '/spotify/play.png'
+    local pause_icon = args.pause_icon or beautiful.icons .. '/spotify/pause.png'
     local font = args.font or 'JetBrainsMono Nerd Font 10px'
     local dim_when_paused = args.dim_when_paused == nil and false or args.dim_when_paused
     local dim_opacity = args.dim_opacity or 0.2
