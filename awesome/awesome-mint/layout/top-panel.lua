@@ -92,7 +92,7 @@ local TopPanel = function(s)
   local my_textclock = wibox.widget.textclock('<span font="JetBrainsMono Nerd Font Mono bold 14px">%H:%M</span>')
   
   local Time = wibox.widget{
-    markup = '<span color="#585148">󱑍 </span>',
+    markup = '<span color="#3F6CAD">󱑍 </span>',
     font = 'JetBrainsMono Nerd Font bold 15px',
     align  = 'center',
     valign = 'center',
@@ -102,7 +102,7 @@ local TopPanel = function(s)
   local textclock = wibox.widget.textclock('<span font="JetBrainsMono Nerd Font Mono 12px">%a, %d/%m</span>')
 
   local Date = wibox.widget{
-    markup = '<span color="#585148"> </span>',
+    markup = '<span color="#3F6CAD"> </span>',
     font = 'JetBrainsMono Nerd Font bold 13px',
     align  = 'center',
     valign = 'center',
@@ -157,32 +157,32 @@ local TopPanel = function(s)
     1800
   )
   weatherCond.font = 'JetBrainsMono Nerd Font bold 10px'
-  weatherCond.color = "#585148"
+  weatherCond.color = "#3F6CAD"
 
   -- Info Symbol
   local Temp = wibox.widget{
-    markup = '<span color="#585148">󰏈 </span>',
+    markup = '<span color="#3F6CAD">󰏈 </span>',
     font = 'BrainsMono Nerd Font bold 13px',
     align  = 'center',
     valign = 'center',
     widget = wibox.widget.textbox
   }
   local Cpu = wibox.widget{
-    markup = '<span color="#585148"> </span>',
+    markup = '<span color="#3F6CAD"> </span>',
     font = 'JetBrainsMono Nerd Font bold 13px',
     align  = 'center',
     valign = 'center',
     widget = wibox.widget.textbox
   }
   local Ram = wibox.widget{
-    markup = '<span color="#585148"> </span>',
+    markup = '<span color="#3F6CAD"> </span>',
     font = 'JetBrainsMono Nerd Font bold 13px',
     align  = 'center',
     valign = 'center',
     widget = wibox.widget.textbox
   }
   local separator = wibox.widget{
-    markup = '<span color="#585148">|</span>',
+    markup = '<span color="#3F6CAD">|</span>',
     font = 'JetBrainsMono Nerd Font 17px',
     align  = 'center',
     valign = 'center',
@@ -196,7 +196,7 @@ local TopPanel = function(s)
     widget = wibox.widget.textbox,
   }
   local Temperature = wibox.widget{
-    markup = '<span color="#585148"> </span>',
+    markup = '<span color="#3F6CAD"> </span>',
     font = 'JetBrainsMono Nerd Font bold 13px',
     align  = 'center',
     valign = 'center',

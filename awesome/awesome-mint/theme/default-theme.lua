@@ -7,10 +7,10 @@ local oldbook = require('theme.oldbook')
 local theme = {}
 
 -- CHANGE COLORS HERE
-colorscheme = oldbook
-theme.icons = theme_dir .. '/icons/oldbook/'
--- also <span> on "layout/top-panel.lua" & "widget/net-speed/net-speed.lua"
--- currently is = "#585148"
+colorscheme = blacklotus
+theme.icons = theme_dir .. '/icons/blacklotus/'
+-- also change <span> on "layout/top-panel.lua" & "widget/net-speed/net-speed.lua"
+-- "#3F6CAD" for BlackLotus and "#585148" for OldBook
 
 local awesome_overrides =
   function(theme)

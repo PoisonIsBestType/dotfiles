@@ -7,7 +7,7 @@ return{
     
     -- Base
     background = {
-        nrm = '#e9e2c9',
+        nrm = '#E9E2C9',
         alt = '#E9E1C3',
         fcs = '#DAC9AA'
     },
@@ -24,32 +24,32 @@ return{
 
     -- Normal
     normal = {
-        black = '#2e2928',
-        red = '#5e0f04',
-        green = '#333f0a',
-        yellow = '#957c16',
-        blue = '#2a5173',
-        magenta = '#513e56',
-        cyan = '#0e616a',
-        white = '#42474c',
+        black = '#2E2928',
+        red = '#5E0f04',
+        green = '#333f0A',
+        yellow = '#957C16',
+        blue = '#2A5173',
+        magenta = '#513E56',
+        cyan = '#0E616A',
+        white = '#42474C',
         orange = '#683504',
-        pink = '#5f2263',
+        pink = '#5F2263',
         brown = '#523622'
     },
 
     -- Bright
     bright = {
-        black = '#413d37',
-        red = '#7a1405',
-        green = '#50620f',
-        yellow = '#b4961a',
+        black = '#413D37',
+        red = '#7A1405',
+        green = '#50620F',
+        yellow = '#B4961A',
         blue = '#366994',
-        magenta = '#674f6e',
-        cyan = '#158f9c',
-        white = '#413d37',
-        orange = '#984e06',
-        pink = '#85308a',
-        brown = '#784f31'
+        magenta = '#674f6E',
+        cyan = '#158f9C',
+        white = '#413D37',
+        orange = '#984E06',
+        pink = '#85308A',
+        brown = '#784F31'
     },
 
     -- Content grey
