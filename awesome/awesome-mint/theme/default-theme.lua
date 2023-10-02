@@ -10,7 +10,7 @@ local theme = {}
 colorscheme = oldbook
 theme.icons = theme_dir .. '/icons/oldbook/'
 -- also <span> on "layout/top-panel.lua" & "widget/net-speed/net-speed.lua"
--- currently is = "#3f6cad"
+-- currently is = "#585148"
 
 local awesome_overrides =
   function(theme)

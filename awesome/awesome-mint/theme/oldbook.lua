@@ -7,49 +7,49 @@ return{
     
     -- Base
     background = {
-        nrm = '#f1eddd',
-        alt = '#ddd3c9',
-        fcs = '#dac9aa'
+        nrm = '#e9e2c9',
+        alt = '#E9E1C3',
+        fcs = '#DAC9AA'
     },
     foreground = {
         nrm = '#585148',
-        alt = '#784f31'
+        alt = '#583A24'
     },
     accent = {
-        nrm = '#585148',    
-        alt = '#2da49c',
-        brt_nrm = '#784f31',
-        brt_alt = '#a42d35'
+        nrm = '#585148',   
+        alt = '#583A24', 
+        brt_nrm = '#7A1405', 
+        brt_alt = '#158f9C'
     },
 
     -- Normal
     normal = {
-        black = '#211F21',
-        red = '#7B3E59',
-        green = '#798347',
-        yellow = '#AE9F76',
-        blue = '#3F6CAD',
-        magenta = '#553976',
-        cyan = '#416680',
-        white = '#ADC4E3',
-        orange = '#CC873F',
-        pink = '#B65685',
-        brown = '#473730'
+        black = '#2e2928',
+        red = '#5e0f04',
+        green = '#333f0a',
+        yellow = '#957c16',
+        blue = '#2a5173',
+        magenta = '#513e56',
+        cyan = '#0e616a',
+        white = '#42474c',
+        orange = '#683504',
+        pink = '#5f2263',
+        brown = '#523622'
     },
 
     -- Bright
     bright = {
-        black = '#302E31',
-        red = '#A55377',
-        green = '#C8CC86',
-        yellow = '#D9C793',
-        blue = '#2F88FF',
-        magenta = '#8853C7',
-        cyan = '#6DABD6',
-        white = '#DCEFFF',
-        orange = '#CC9964',
-        pink = '#CC76A0',
-        brown = '#896A5D'
+        black = '#413d37',
+        red = '#7a1405',
+        green = '#50620f',
+        yellow = '#b4961a',
+        blue = '#366994',
+        magenta = '#674f6e',
+        cyan = '#158f9c',
+        white = '#413d37',
+        orange = '#984e06',
+        pink = '#85308a',
+        brown = '#784f31'
     },
 
     -- Content grey
@@ -66,34 +66,34 @@ return{
 
     -- Gradient 8
     grad8 = {
-        g1 = '#A42D35',
-        g2 = '#953C42',
-        g3 = '#844D50',
-        g4 = '#6F6263',
-        g5 = '#607170',
-        g6 = '#4E8380',
-        g7 = '#3C958F',
-        g8 = '#2DA49C'
+        g1 = '#7A1405',
+        g2 = '#6C261B',
+        g3 = '#5E3631',
+        g4 = '#504746',
+        g5 = '#435658',
+        g6 = '#386369',
+        g7 = '#2A747D',
+        g8 = '#158f9C'
     },
 
     -- Gradient 16
     grad16 = {
-        g1 = '#A42D35',
-        g2 = '#9D343B',
-        g3 = '#953C42',
-        g4 = '#8E4348',
-        g5 = '#844D50',
-        g6 = '#7D5456',
-        g7 = '#765B5C',
-        g8 = '#6F6263',
-        g9 = '#686A6A',
-        g10 = '#607170',
-        g11 = '#597876',
-        g12 = '#4E8380',
-        g13 = '#448D88',
-        g14 = '#3C958F',
-        g15 = '#349D96',
-        g16 = '#2DA49C'
+        g1 = '#7A1405',
+        g2 = '#731D10',
+        g3 = '#6C261B',
+        g4 = '#652E26',
+        g5 = '#5E3631',
+        g6 = '#56403D',
+        g7 = '#504746',
+        g8 = '#4A4E4F',
+        g9 = '#435658',
+        g10 = '#3E5C60',
+        g11 = '#386369',
+        g12 = '#316B73',
+        g13 = '#2A747D',
+        g14 = '#237D87',
+        g15 = '#1C8691',
+        g16 = '#158f9C'
     },
         
     black = '#000000',

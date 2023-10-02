@@ -65,14 +65,14 @@ local function worker(user_args)
             widget = wibox.widget.textbox
         },
         {
-            markup = '<span color="#3f6cad"></span>',
+            markup = '<span color="#585148"></span>',
             font = 'JetBrainsMono Nerd Font bold 21px',
             align  = 'center',
             valign = 'center',
             widget = wibox.widget.textbox
         },
         {
-            markup = '<span color="#3f6cad"></span>',
+            markup = '<span color="#585148"></span>',
             font = 'JetBrainsMono Nerd Font bold 21px',
             align  = 'center',
             valign = 'center',
