@@ -9,8 +9,8 @@ local theme = {}
 -- CHANGE COLORS HERE
 colorscheme = blacklotus
 theme.icons = theme_dir .. '/icons/blacklotus/'
--- also <span> on "layout/top-panel.lua" & "widget/net-speed/net-speed.lua"
--- currently is = "#3f6cad"
+-- also change <span> on "layout/top-panel.lua" & "widget/net-speed/net-speed.lua"
+-- "#3F6CAD" for BlackLotus and "#585148" for OldBook
 
 local awesome_overrides =
   function(theme)
