@@ -9,7 +9,7 @@ Originally desing by [PapyElGringo](https://github.com/material-shell/material-a
 _______
 <details>
 <summary><b>
-Index 
+<h1 align="center"> Index</h1>
 </b></summary>
 
 - <a href="https://github.com/PoisonIsBestType/dotfiles#setup">Setup</a>
