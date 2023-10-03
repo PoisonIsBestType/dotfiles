@@ -52,7 +52,7 @@ _______
 <summary><b>
 Galery 
 </b></summary>
-  - Top Panel
+<h3  - Top Panel </h3>
   
 - Left
 
@@ -65,6 +65,40 @@ Galery
 - Right
 
 <img src="wibar-right.png">
+
+<h3  - Modules / Widgets </h3>
+  
+- Exit-screen
+
+<img src="exi-screen.png">
+
+- Calendar
+
+<img src="calendar.png">
+
+<h3  - GTK / Icons </h3>
+  
+- Nemo
+
+<img src="gtk.png">
+
+<h3  - Applications </h3>
+  
+- Alacritty
+
+<img src="text.png">
+
+- BpyTOP
+
+<img src="bpytop.png">
+
+- Ranger
+
+<img src="ranger.png">
+
+- Rofi
+
+<img src="rofi.png">
 
 
 </details>
