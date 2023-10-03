@@ -8,8 +8,8 @@ Originally desing by [PapyElGringo](https://github.com/material-shell/material-a
 
 _______
 
-<align="center"><details>
-<summary><b>
+<details>
+<align="center"><summary><b>
 Index
 </b></summary>
 
