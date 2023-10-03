@@ -9,9 +9,9 @@ Originally desing by [PapyElGringo](https://github.com/material-shell/material-a
 _______
 
 <details>
-<align="center"><summary><b>
+<h2 align="center"><summary><b>
 Index
-</b></summary>
+</b></summary></h2>
 
 - <a href="https://github.com/PoisonIsBestType/dotfiles#setup">Setup</a>
 
