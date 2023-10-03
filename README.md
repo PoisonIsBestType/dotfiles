@@ -7,10 +7,11 @@ A keyboard centered experience, with good mouse support.
 Originally desing by [PapyElGringo](https://github.com/material-shell/material-awesome), this version is based on [ChrisTitusTech](https://github.com/ChrisTitusTech/titus-awesome)'s fork.
 
 _______
+<h2 align="center"> INDEX </h2>
 
 <details>
 <summary><b>
-Index
+Click here
 </b></summary>
 
 - <a href="https://github.com/PoisonIsBestType/dotfiles#top-panel-">Setup</a>
@@ -50,10 +51,11 @@ Avaliable in two colorschemes: BlackLotus (dark) and OldBook (light).
 ![](./desktop-oldbook.png)
 
 _______
+<h2 align="center"> GALERY </h2>
 
  <details>
 <summary><b>
-Galery 
+Click here 
 </b></summary>
   
 _______
@@ -233,7 +235,7 @@ Place the content from ```gtk-3.0``` in both `~/.config/gtk-3.0/` and `/root/.co
 
 _______
 
-<h2 align="center"> Keybinds: </h2>
+<h2 align="center">KEYBINDS </h2>
 
 | MOD | KEY | Description |
 |-------------------|-----------------------|-------------|
@@ -272,7 +274,7 @@ _______
 
 _______
 
-<h3 align="center"> Documentation </h3>
+<h2 align="center">DOCUMENTATION </h2>
 
 The documentation live within the source code.
 
