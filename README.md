@@ -52,6 +52,7 @@ _______
 <summary><b>
 Galery 
 </b></summary>
+  
 _______
   
 Top Panel 
@@ -72,7 +73,7 @@ _______
 
 _______
 
-- Modules / Widgets 
+Modules / Widgets 
 
 _______
   
@@ -86,7 +87,7 @@ _______
 
 _______
 
-  - GTK / Icons 
+GTK / Icons 
 
 _______
   
@@ -96,7 +97,7 @@ _______
 
 _______
 
-  - Applications 
+Applications 
 
 _______
   
