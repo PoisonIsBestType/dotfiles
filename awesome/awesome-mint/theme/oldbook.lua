@@ -16,10 +16,10 @@ return{
         alt = '#583A24'
     },
     accent = {
-        nrm = '#585148',   
-        alt = '#583A24', 
-        brt_nrm = '#7A1405', 
-        brt_alt = '#158f9C'
+        nrm = '#585148',  --ink 
+        alt = '#583A24',  --brown
+        brt_nrm = '#7A1405',  --scarlat
+        brt_alt = '#158f9C'  --aquamarine
     },
 
     -- Normal
