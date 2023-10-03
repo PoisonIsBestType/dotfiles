@@ -14,7 +14,7 @@ _______
 Click here
 </b></summary>
 
-- <a href="https://github.com/PoisonIsBestType/dotfiles#top-panel-">Setup</a>
+- <a href="https://github.com/PoisonIsBestType/dotfiles/blob/main/README.md#-galery-">Galery</a>
 
 - <a href="https://github.com/PoisonIsBestType/dotfiles#-setup-">Setup</a>
 
