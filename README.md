@@ -119,6 +119,19 @@ _______
 
 <img src="rofi.png">
 
+_______
+
+<h3 align="center">Screenshots </h3>
+  
+- BlackLotus
+
+<img src="blacklotus.png">
+
+- OldBook
+
+<img src="oldbook.png">
+
+
 
 </details>
 
