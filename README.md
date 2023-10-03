@@ -210,7 +210,7 @@ The documentation live within the source code.
 The project is split in functional directories and in each of them there is a readme where you can get additional information about the them.
 
 * [Configuration](./awesome/awesome-suse/configuration) is about all the **settings** available
-* [Keybinds](./awesome/awesome-suse/configuration/keys/) is where all the **keybinds** are
+* [Keys](./awesome/awesome-suse/configuration/keys/) is where all the **keybinds** are
 * [Layout](./awesome/awesome-suse/layout) hold the **disposition** of all the widgets
 * [Module](./awesome/awesome-suse/module) contain all the **features** available
 * [Theme](./awesome/awesome-suse/theme) hold all the **aesthetic** aspects
