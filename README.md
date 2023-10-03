@@ -106,10 +106,6 @@ Galery
 _______
 
 ## SETUP
-
-_______
-
-
 ### Program list:
 <i>essentials</i>
 
