@@ -120,7 +120,7 @@ _______
 ```
 git clone --depth=1 --recursive https://github.com/PoisonIsBestType/dotfiles.git
 ```
-Then place them into their respective folders:
+Then place the chosen files (BlackLotus or OldBook, Mint or Suse) into their respective folders:
 - `~/.themes`, `~/.icons` and `~/.fonts` for `theme-files`
 - `~` for `bash`
 - `/lib/python3.11/site-packages/ranger/colorschemes` or `/lib/python3/dist-packages/ranger/colorschemes`for `ranger/*.py`
@@ -147,6 +147,8 @@ Then:
 - Delete the unneeded files.
 - Move `ranger/*.py` to `/lib/python3.11/site-packages/ranger/colorschemes` or `/lib/python3/dist-packages/ranger/colorschemes`.
 
+
+Finally edit `~/.config/awesome/theme/default-theme.lua`, `~/.config/bpytop/bpytop.conf`, `~/.config/ranger/rc.conf` and `~/.config/rofi/menu.rasi` to set the chosen colorscheme.
 
 
 _______
