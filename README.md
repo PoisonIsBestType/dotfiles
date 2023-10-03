@@ -46,7 +46,22 @@ Avaliable in two colorschemes: BlackLotus (dark) and OldBook (light).
 - OldBook:
 ![](./desktop-oldbook.png)
 
+_______
 
+<details>
+<summary><b>
+Galery 
+</b></summary>
+  - Top Panel
+- Left
+<img src="wibar-left.png">
+- Center (tag-list)
+<img src="tag-list.png">
+- Right
+<img src="wibar-right.png">
+
+
+</details>
 _______
 
 ## SETUP
