@@ -13,7 +13,9 @@ _______
 Index
 </b></summary>
 
-- <a href="https://github.com/PoisonIsBestType/dotfiles#setup">Setup</a>
+- <a href="https://github.com/PoisonIsBestType/dotfiles#top-panel-">Setup</a>
+
+- <a href="https://github.com/PoisonIsBestType/dotfiles#-setup-">Setup</a>
 
 - <a href="https://github.com/PoisonIsBestType/dotfiles#program-list">Program List</a>
 
@@ -27,9 +29,9 @@ Index
 
 - <a href="https://github.com/PoisonIsBestType/dotfiles#set-the-themes">Set themes</a>
 
-- <a href="https://github.com/PoisonIsBestType/dotfiles#akeybinds">Keybinds</a>
+- <a href="https://github.com/PoisonIsBestType/dotfiles#-keybinds-">Keybinds</a>
 
-- <a href="https://github.com/PoisonIsBestType/dotfiles#documentation">Documentation</a>
+- <a href="https://github.com/PoisonIsBestType/dotfiles#-documentation-">Documentation</a>
 
 
 
