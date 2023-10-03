@@ -52,7 +52,7 @@ _______
 <summary><b>
 Galery 
 </b></summary>
-<h3  - Top Panel </h3>
+  - Top Panel 
   
 - Left
 
@@ -66,7 +66,7 @@ Galery
 
 <img src="wibar-right.png">
 
-<h3  - Modules / Widgets </h3>
+  - Modules / Widgets 
   
 - Exit-screen
 
@@ -76,13 +76,13 @@ Galery
 
 <img src="calendar.png">
 
-<h3  - GTK / Icons </h3>
+  - GTK / Icons 
   
 - Nemo
 
 <img src="gtk.png">
 
-<h3  - Applications </h3>
+  - Applications 
   
 - Alacritty
 
