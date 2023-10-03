@@ -58,7 +58,6 @@ _______
   
 Top Panel 
 
-_______
   
 - Left
 
@@ -76,7 +75,6 @@ _______
 
 Modules / Widgets 
 
-_______
   
 - Exit-screen
 
@@ -90,7 +88,6 @@ _______
 
 GTK / Icons 
 
-_______
   
 - Nemo
 
@@ -99,8 +96,6 @@ _______
 _______
 
 Applications 
-
-_______
   
 - Alacritty
 
