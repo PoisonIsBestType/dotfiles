@@ -18,7 +18,7 @@ return{
     accent = {
         nrm = '#585148',  --ink 
         alt = '#583A24',  --brown
-        brt_nrm = '#7A1405',  --scarlat
+        brt_nrm = '#7A1405',  --scarlet
         brt_alt = '#158f9C'  --aquamarine
     },
 
