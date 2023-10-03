@@ -56,7 +56,7 @@ Galery
   
 _______
   
-Top Panel 
+<h3 align="center">Top Panel </h3>
 
   
 - Left
@@ -73,7 +73,7 @@ Top Panel
 
 _______
 
-Modules / Widgets 
+<h3 align="center">Modules / Widgets </h3>
 
   
 - Exit-screen
@@ -86,7 +86,7 @@ Modules / Widgets
 
 _______
 
-GTK / Icons 
+<h3 align="center">GTK / Icons </h3>
 
   
 - Nemo
@@ -95,7 +95,7 @@ GTK / Icons
 
 _______
 
-Applications 
+<h3 align="center">Applications </h3>
   
 - Alacritty
 
