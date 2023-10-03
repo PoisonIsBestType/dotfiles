@@ -62,7 +62,7 @@ _______
 - [Alacritty](https://github.com/alacritty/alacritty) for **terminal  emulator**
 - [Rofi](https://github.com/DaveDavenport/rofi) for the **app launcher**
 - [Nemo](https://github.com/linuxmint/nemo) for **file-manager**
-- [picom](https://github.com/yshui/picom) for the **compositor** (blur and animations)
+- [picom](https://github.com/yshui/picom) for the **compositor** (can be replaced by *compton*, edit `apps.lua)
 - [feh](https://github.com/derf/feh) as **background** setter
 - [i3lock-color](https://github.com/Raymo111/i3lock-color) as the **lockscreen** application 
 - [gnome-polkit](https://developer-old.gnome.org/platform-overview/unstable/tech-polkit.html.en) recommend using the gnome-polkit as it integrates nicely for elevating programs that need root access
