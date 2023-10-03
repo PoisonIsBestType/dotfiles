@@ -66,21 +66,24 @@ Galery
 
 <img src="wibar-right.png">
 
+
   - Modules / Widgets 
   
 - Exit-screen
 
-<img src="exi-screen.png">
+<img src="exit-screen.png">
 
 - Calendar
 
 <img src="calendar.png">
+
 
   - GTK / Icons 
   
 - Nemo
 
 <img src="gtk.png">
+
 
   - Applications 
   
