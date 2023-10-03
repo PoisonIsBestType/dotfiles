@@ -9,7 +9,7 @@ Originally desing by [PapyElGringo](https://github.com/material-shell/material-a
 _______
 
 <details>
-<b>
+<summary><b>
 Index
 </b></summary>
 
