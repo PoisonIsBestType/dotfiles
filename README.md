@@ -48,9 +48,9 @@ Avaliable in two colorschemes: BlackLotus (dark) and OldBook (light).
 
 _______
 
-# <details>
+ <details>
 <summary><b>
-Galery 
+## Galery 
 </b></summary>
   
 _______
