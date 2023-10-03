@@ -118,7 +118,7 @@ _______
 
 _______
 
-## SETUP
+<h2 align="center"> SETUP </h2>
 ### Program list:
 <i>essentials</i>
 
@@ -230,7 +230,7 @@ Place the content from ```gtk-3.0``` in both `~/.config/gtk-3.0/` and `/root/.co
 
 _______
 
-### Keybinds:
+<h2 align="center"> Keybinds: </h2>
 | MOD | KEY | Description |
 |-------------------|-----------------------|-------------|
 | `Super` | `F1` | Show help |
@@ -268,7 +268,7 @@ _______
 
 _______
 
-### Documentation
+<h3 align="center"> Documentation </h3>
 
 The documentation live within the source code.
 
