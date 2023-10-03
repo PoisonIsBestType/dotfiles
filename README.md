@@ -232,6 +232,7 @@ Place the content from ```gtk-3.0``` in both `~/.config/gtk-3.0/` and `/root/.co
 _______
 
 <h2 align="center"> Keybinds: </h2>
+
 | MOD | KEY | Description |
 |-------------------|-----------------------|-------------|
 | `Super` | `F1` | Show help |
