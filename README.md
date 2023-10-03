@@ -44,10 +44,12 @@ These dotfiles are meant to be used with both ```OpenSuse Tumbleweed``` and ```L
 
 Avaliable in two colorschemes: BlackLotus (dark) and OldBook (light).
 
-- BlackLotus:
+<h3 align="center">BlackLotus: </h3>
+
 ![](./desktop-blacklotus.png)
 
-- OldBook:
+<h3 align="center">OldBook: </h3>
+
 ![](./desktop-oldbook.png)
 
 _______
