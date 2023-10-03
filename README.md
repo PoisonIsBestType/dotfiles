@@ -52,7 +52,11 @@ _______
 <summary><b>
 Galery 
 </b></summary>
-  - Top Panel 
+_______
+  
+Top Panel 
+
+_______
   
 - Left
 
@@ -66,8 +70,11 @@ Galery
 
 <img src="wibar-right.png">
 
+_______
 
-  - Modules / Widgets 
+- Modules / Widgets 
+
+_______
   
 - Exit-screen
 
@@ -77,15 +84,21 @@ Galery
 
 <img src="calendar.png">
 
+_______
 
   - GTK / Icons 
+
+_______
   
 - Nemo
 
 <img src="gtk.png">
 
+_______
 
   - Applications 
+
+_______
   
 - Alacritty
 
