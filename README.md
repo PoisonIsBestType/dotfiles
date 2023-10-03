@@ -3,7 +3,7 @@
 
 _______
 
-## A keyboard centered experience, with good mouse support.
+A keyboard centered experience, with good mouse support.
 Originally desing by [PapyElGringo](https://github.com/material-shell/material-awesome), this version is based on [ChrisTitusTech](https://github.com/ChrisTitusTech/titus-awesome)'s fork.
 
 _______
