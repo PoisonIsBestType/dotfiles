@@ -255,7 +255,7 @@ Place the content from ```gtk-3.0``` in both `~/.config/gtk-3.0/` and `/root/.co
 
 _______
 
-<h2 align="center">KEYBINDS </h2>
+<h2 align="center"> KEYBINDS </h2>
 
 | MOD | KEY | Description |
 |-------------------|-----------------------|-------------|
@@ -294,7 +294,7 @@ _______
 
 _______
 
-<h2 align="center">DOCUMENTATION </h2>
+<h2 align="center"> DOCUMENTATION </h2>
 
 The documentation live within the source code.
 
