@@ -14,7 +14,7 @@ _______
 Click here
 </b></summary>
 
-- <a href="https://github.com/PoisonIsBestType/dotfiles/blob/main/README.md#-galery-">Galery</a>
+- <a href="https://github.com/PoisonIsBestType/dotfiles#-galery-">Galery</a>
 
 - <a href="https://github.com/PoisonIsBestType/dotfiles#-setup-">Setup</a>
 
@@ -65,7 +65,7 @@ _______
 <h3 align="center">Top Panel </h3>
 
   
-- Left
+- Left side
 
 <img src="wibar-left.png">
 
@@ -73,7 +73,7 @@ _______
 
 <img src="tag-list.png">
 
-- Right
+- Right side
 
 <img src="wibar-right.png">
 
