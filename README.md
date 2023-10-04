@@ -288,6 +288,8 @@ _______
 | `Super`+`Ctrl` | `Left` | Move focused client left|
 | `Super`+`Ctrl` | `Right` | Move focused client right |
 | `Super` | `Space` | Toggle client floating |
+
+| `Super` | `F` | Toggle client full-screen |
 | `Super`+`Shift` | `Space` | Select next layout |
 
 
