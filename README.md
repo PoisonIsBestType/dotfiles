@@ -90,6 +90,11 @@ _______
 
 <img src="calendar.png">
 
+- Lock-screen
+
+<img src="i3lock.png">
+
+
 _______
 
 <h3 align="center">GTK / Icons </h3>
