@@ -263,7 +263,6 @@ _______
 | `Super` | `F4` | Exit screen |
 | `Super` | `F5` | Reload awesome |
 | `Super` | `Pause` | Lock screen |
-| `Super` | `F4` | Exit-screen |
 | `Super`+`Ctrl` | `Q` | Quit awesome |
 | `Super` | `W/A/S/D/Z/X/C` | View tag 1~7 |
 | `Super`+`Ctrl` | `W/A/S/D/Z/X/C` | Move client to tag 1~7 |
