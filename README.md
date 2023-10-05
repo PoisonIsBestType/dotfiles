@@ -78,7 +78,7 @@ _______
 
 <img src="tag-list.png">
 
-- Right side (cpu/ram usage, temperature, connection, tile layout)
+- Right side (cpu/ram usage, temperature, network, tile-layout)
 
 <img src="wibar-right.png">
 
