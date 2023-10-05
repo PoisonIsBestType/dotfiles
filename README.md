@@ -179,7 +179,7 @@ _______
 | [BLACK-Pomegranate-Numix](https://www.gnome-look.org/p/1335817) | Icon theme | Purple accent |
 | [Sunity-cursors](https://www.gnome-look.org/p/1703043) | Cursor theme | Midway through classic and modern |
 
-<h3 align="center">📜 OldBook theme-filess</h3>
+<h3 align="center">📜 OldBook theme-files</h3>
 
 | Name | Function | Description |
 |-------------------|-----------------------|-------------|
