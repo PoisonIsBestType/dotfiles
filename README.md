@@ -113,7 +113,7 @@ _______
 
 <h3 align="center">Applications </h3>
   
-- Alacritty (pure Vim show terminal colors)
+- Alacritty (pure Vim showing terminal colors)
 
 <img src="text.png">
 
