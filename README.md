@@ -149,7 +149,7 @@ _______
 
 <h2 align="center">🏗 SETUP 🏗</h2>
 
-### Program list:
+### 💻 Program list:
 <i>(essential for out of the box usage)</i>
 
 
