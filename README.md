@@ -127,6 +127,8 @@ _______
 
 - Rofi (based on[Adamekka](https://github.com/Adamekka/rofi)'s config)
 
+<img src="rofi.png">
+
 _______
 
 <h3 align="center">Screenshots </h3>
