@@ -27,7 +27,7 @@ Click here
 
 - <a href="https://github.com/PoisonIsBestType/dotfiles#-dependencies">Dependencies</a>
 
-- <a href="https://github.com/PoisonIsBestType/dotfiles#-clone-the-files">Clone</a>
+- <a href="https://github.com/PoisonIsBestType/dotfiles#-clone-the-files">Clone the files</a>
 
 - <a href="https://github.com/PoisonIsBestType/dotfiles#-set-the-themes">Set themes</a>
 
