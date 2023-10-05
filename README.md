@@ -91,7 +91,7 @@ _______
 
 <img src="exit-screen.png">
 
-- Calendar (Click time/date to show/hide and scroll to change month)
+- Calendar (click time/date to show/hide and scroll to change month)
 
 <img src="calendar.png">
 
