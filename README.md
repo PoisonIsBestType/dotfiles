@@ -1,4 +1,4 @@
-<h1 align="center"> DotFiles</h1>
+<h1 align="center">📁 DotFiles</h1>
 <h3 align="center"><i>almeida's</i>  <b>".config"</b> <i>backup & a noob's work in progress.</i></h3>
 
 _______
@@ -12,7 +12,7 @@ A keyboard centered experience, with good mouse support.
 This fork focus on streamlining the workflow with a hibrid keyboard/mouse usage. The whole system can be controled using only the keyboard, but the [keybinds](https://github.com/PoisonIsBestType/dotfiles#-keybinds-) are setup focused on the left hand, freeing the users right hand by concentrating the controls to the `W/A/S/D` area and using the `Super` key as main modkey.
 
 _______
-<h2 align="center"> INDEX </h2>
+<h2 align="center">📝 INDEX </h2>
 
 <details>
 <summary><b>
@@ -49,16 +49,16 @@ These dotfiles are meant to be used with both `OpenSuse Tumbleweed` and `Linux M
 
 Avaliable in two colorschemes: BlackLotus (dark) and OldBook (light).
 
-<h3 align="center">BlackLotus: </h3>
+<h3 align="center">🌸 BlackLotus: </h3>
 
 ![](./desktop-blacklotus.png)
 
-<h3 align="center">OldBook: </h3>
+<h3 align="center">📜 OldBook: </h3>
 
 ![](./desktop-oldbook.png)
 
 _______
-<h2 align="center"> GALERY </h2>
+<h2 align="center">📷 GALERY </h2>
 
  <details>
 <summary><b>
@@ -147,13 +147,13 @@ _______
 
 _______
 
-<h2 align="center"> SETUP </h2>
+<h2 align="center">🏗 SETUP </h2>
 
 ### Program list:
 <i>(essential for out of the box usage)</i>
 
 
-<h3 align="center">🌸 System </h3>
+<h3 align="center">⚙️ System </h3>
 
 | Name | Function | Description |
 |-------------------|-----------------------|-------------|
@@ -188,7 +188,7 @@ _______
 | [Sunity-cursors](https://www.gnome-look.org/p/1703043) | Cursor theme | Midway through classic and modern |
 _______
 
-### Dependencies:
+### 📦 Dependencies:
 <i>(most are optional, see [Program list](https://github.com/PoisonIsBestType/dotfiles/blob/main/README.md#program-list))</i>
 
 #### - OpenSUSE Tumbleweed:
@@ -220,7 +220,7 @@ flatpak install vscodium citra
 _______
 
 
-### Clone the files
+### 📥 Clone the files
 
 ```
 git clone --depth=1 --recursive https://github.com/PoisonIsBestType/dotfiles.git
@@ -258,7 +258,7 @@ Then:
 
 _______
 
-### Set the themes
+### 🎨 Set the themes
 
 Edit `~/.config/awesome/theme/default-theme.lua`, `~/.config/bpytop/bpytop.conf`, `~/.config/ranger/rc.conf` and `~/.config/rofi/menu.rasi` to set the chosen colorscheme.
 
@@ -270,7 +270,7 @@ Place the content from ```gtk-3.0``` in both `~/.config/gtk-3.0/` and `/root/.co
 
 _______
 
-<h2 align="center"> KEYBINDS </h2>
+<h2 align="center">⌨️ KEYBINDS </h2>
 
 | MOD | KEY | Description |
 |-------------------|-----------------------|-------------|
@@ -309,7 +309,7 @@ _______
 
 _______
 
-<h2 align="center"> DOCUMENTATION </h2>
+<h2 align="center">📄 DOCUMENTATION </h2>
 
 The documentation live within the source code.
 
