@@ -180,29 +180,29 @@ _______
 
 | Name | Function | Description |
 |-------------------|-----------------------|-------------|
-| [AwesomeWM](https://awesomewm.org/) | window manager | Main environment |
-| [JetBrainsMono Nerd Font](https://www.nerdfonts.com/font-downloads) as the **font**
-- [Alacritty](https://github.com/alacritty/alacritty) for **terminal  emulator**
-- [Rofi](https://github.com/DaveDavenport/rofi) for the **app launcher**
-- [Nemo](https://github.com/linuxmint/nemo) for **file-manager**
-- [picom](https://github.com/yshui/picom) for the **compositor** (can be replaced with **compton**, edit `apps.lua`)
-- [feh](https://github.com/derf/feh) as **background** setter
-- [i3lock-color](https://github.com/Raymo111/i3lock-color) as the **lockscreen** application 
-- [gnome-polkit](https://developer-old.gnome.org/platform-overview/unstable/tech-polkit.html.en) recommend using the gnome-polkit as it integrates nicely for elevating programs that need root access
-- [lxappearance](https://sourceforge.net/projects/lxde/files/LXAppearance/) to set up the **gtk** and icon theme
-- [xfce4-screenshooter](https://docs.xfce.org/apps/screenshooter/start) as **screenshot** app
-- [network-manager-applet](https://gitlab.gnome.org/GNOME/network-manager-applet) nm-applet is a Network Manager Tray display from GNOME.
-- [xfce4-power-manager](https://docs.xfce.org/xfce/xfce4-power-manager/start) XFCE4's power manager is excellent and a great way of dealing with sleep, monitor timeout, and other power management features.
+| [awesomewm](https://awesomewm.org/) | window manager | Main environment |
+| [JetBrainsMono Nerd Font](https://www.nerdfonts.com/font-downloads) | Font | Applied systemwide | 
+| [alacritty](https://github.com/alacritty/alacritty) | Terminal  emulator | Fast and simple |
+| [rofi](https://github.com/DaveDavenport/rofi) | App launcher | Functional and very customizable |
+| [nemo](https://github.com/linuxmint/nemo) | File-manager | One of the best GUI file managers |
+| [picom](https://github.com/yshui/picom) | Compositor | Can be replaced with **compton** editing `apps.lua` |
+| [feh](https://github.com/derf/feh) | Background setter | Simple but able to randomize |
+| [i3lock-color](https://github.com/Raymo111/i3lock-color) | Lockscreen application | Light and customizeble |
+| [gnome-polkit](https://developer-old.gnome.org/platform-overview/unstable/tech-polkit.html.en) | Policy handling | Integrates nicely for elevating programs that need root access |
+| [lxappearance](https://sourceforge.net/projects/lxde/files/LXAppearance/) | Icon/GTK/Cursor theme setter | Not necessary but helpful GUI option |
+| [xfce4-screenshooter](https://docs.xfce.org/apps/screenshooter/start) | Screenshot app | Full-screen/Area/Delay support with GUI helper |
+| [network-manager-applet](https://gitlab.gnome.org/GNOME/network-manager-applet) | NM systray display | Integrates nicely with any system |
+| [xfce4-power-manager](https://docs.xfce.org/xfce/xfce4-power-manager/start) | Power manager | Excellent for dealing with sleep, monitor timeout, and other power management features |
 
-  #### BlackLotus Theme:
-- [Numix-BLACK-ice](https://www.gnome-look.org/p/1335655) as **GTK** theme 
-- [BLACK-Pomegranate-Numix](https://www.gnome-look.org/p/1335817) as **icon** theme
-- [Sunity-cursors](https://www.gnome-look.org/p/1703043) as **cursor** theme
+| | BlackLotus Theme | |
+| [Numix-BLACK-ice](https://www.gnome-look.org/p/1335655) | GTK theme | Dark grey with light blue accents |
+| [BLACK-Pomegranate-Numix](https://www.gnome-look.org/p/1335817) | Icon theme | Purple accent |
+| [Sunity-cursors](https://www.gnome-look.org/p/1703043) | Cursor theme | Midway through classic and modern |
 
-  #### OldBook Theme:
-- [Breeze-Solarized-Light](https://www.gnome-look.org/p/1241238) as **GTK** theme 
-- [Adwaita](https://gnome.pages.gitlab.gnome.org/libadwaita/) as **icon** theme
-- [Sunity-cursors](https://www.gnome-look.org/p/1703043) as **cursor** theme
+| | OldBook Theme | |
+| [Breeze-Solarized-Light](https://www.gnome-look.org/p/1241238) | GTK theme | Beautifully tanned |
+| [Adwaita](https://gnome.pages.gitlab.gnome.org/libadwaita/) | Icon theme | A classic |
+| [Sunity-cursors](https://www.gnome-look.org/p/1703043) | Cursor theme | Midway through classic and modern |
 _______
 
 ### Dependencies:
