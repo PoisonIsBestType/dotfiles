@@ -43,7 +43,7 @@ _______
 
 These dotfiles are meant to be used with both `OpenSuse Tumbleweed` and `Linux Mint` using `awesomewm` as desktop environment, but they could work on any other distro with some tinkering.
 
-Avaliable in two colorschemes: BlackLotus (dark) and OldBook (light).
+Avaliable in both dark and light colorschemes:
 
 <p align="center">🌸 BlackLotus: </p>
 
