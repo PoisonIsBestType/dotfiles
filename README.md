@@ -63,7 +63,7 @@ Click here
   
 _______
   
-<h3 align="center">Top Panel </h3>
+<p align="center">Top Panel </p>
 
   
 - Left side (volume, time/calendar/date, wheather, spotify)
@@ -80,7 +80,7 @@ _______
 
 _______
 
-<h3 align="center">Modules / Widgets </h3>
+<p align="center">Modules / Widgets </p>
 
   
 - Exit-screen (P/R/S/O/L keys and mouse activation)
@@ -98,7 +98,7 @@ _______
 
 _______
 
-<h3 align="center">GTK / Icons </h3>
+<p align="center">GTK / Icons </p>
 
   
 - Nemo
@@ -107,7 +107,7 @@ _______
 
 _______
 
-<h3 align="center">Applications </h3>
+<p align="center">Applications </p>
   
 - Alacritty (Vim showing terminal colors)
 
@@ -127,7 +127,7 @@ _______
 
 _______
 
-<h3 align="center">Screenshots </h3>
+<p align="center">Screenshots </p>
   
 - BlackLotus
 
