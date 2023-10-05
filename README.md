@@ -1,6 +1,7 @@
 <h1 align="center">📁 DotFiles 📁</h1>
-<i>almeida's</i>  <b>".config"</b> <i>backup & a noob's work in progress.</i>
 
+_______
+<i>Almeida's</i>  <b>".config"</b> <i>backup & a noob's work in progress.</i>
 _______
 
 Original desing by [PapyElGringo](https://github.com/material-shell/material-awesome), this version is based on [ChrisTitusTech](https://github.com/ChrisTitusTech/titus-awesome)'s fork.
