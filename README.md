@@ -185,7 +185,7 @@ _______
 _______
 
 ### 📦 Dependencies:
-<i>(most are optional, see [Program list](https://github.com/PoisonIsBestType/dotfiles/blob/main/README.md#program-list))</i>
+<i>(most are optional, see [Program list](https://github.com/PoisonIsBestType/dotfiles#-program-list))</i>
 
 <p align="center"> OpenSUSE Tumbleweed </p>
 
