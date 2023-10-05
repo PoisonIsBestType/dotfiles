@@ -45,11 +45,11 @@ These dotfiles are meant to be used with both `OpenSuse Tumbleweed` and `Linux M
 
 Avaliable in both dark and light colorschemes:
 
-<p align="center">🌸 BlackLotus: </p>
+<p align="center">🌸 <a href="https://github.com/PoisonIsBestType/BlackLotus">BlackLotus</a>: </p>
 
 ![](./desktop-blacklotus.png)
 
-<p align="center">📜 OldBook: </p>
+<p align="center">📜 <a href="https://github.com/PoisonIsBestType/OldBook">OldBook</a>: </p>
 
 ![](./desktop-oldbook.png)
 
