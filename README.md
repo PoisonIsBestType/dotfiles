@@ -180,7 +180,7 @@ _______
 
 | Name | Function | Description |
 |-------------------|-----------------------|-------------|
-| [awesomewm](https://awesomewm.org/) | window manager | Main environment |
+| [awesomewm](https://awesomewm.org/) | Window manager | Main environment |
 | [JetBrainsMono Nerd Font](https://www.nerdfonts.com/font-downloads) | Font | Applied systemwide | 
 | [alacritty](https://github.com/alacritty/alacritty) | Terminal  emulator | Fast and simple |
 | [rofi](https://github.com/DaveDavenport/rofi) | App launcher | Functional and very customizable |
@@ -194,12 +194,12 @@ _______
 | [network-manager-applet](https://gitlab.gnome.org/GNOME/network-manager-applet) | NM systray display | Integrates nicely with any system |
 | [xfce4-power-manager](https://docs.xfce.org/xfce/xfce4-power-manager/start) | Power manager | Excellent for dealing with sleep, monitor timeout, and other power management features |
 
-| | BlackLotus Theme | |
+| 🌸 | BlackLotus Theme | 🌸 |
 | [Numix-BLACK-ice](https://www.gnome-look.org/p/1335655) | GTK theme | Dark grey with light blue accents |
 | [BLACK-Pomegranate-Numix](https://www.gnome-look.org/p/1335817) | Icon theme | Purple accent |
 | [Sunity-cursors](https://www.gnome-look.org/p/1703043) | Cursor theme | Midway through classic and modern |
 
-| | OldBook Theme | |
+| 📜 | OldBook Theme | 📜 |
 | [Breeze-Solarized-Light](https://www.gnome-look.org/p/1241238) | GTK theme | Beautifully tanned |
 | [Adwaita](https://gnome.pages.gitlab.gnome.org/libadwaita/) | Icon theme | A classic |
 | [Sunity-cursors](https://www.gnome-look.org/p/1703043) | Cursor theme | Midway through classic and modern |
