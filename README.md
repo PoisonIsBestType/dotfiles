@@ -25,10 +25,6 @@ Click here
 
 - <a href="https://github.com/PoisonIsBestType/dotfiles#program-list">Program List</a>
 
-- <a href="https://github.com/PoisonIsBestType/dotfiles#-blacklotus-theme-files">BlackLotus theme-files</a>
-
-- <a href="https://github.com/PoisonIsBestType/dotfiles#-oldbook-theme-files">OldBook theme-files</a>
-
 - <a href="https://github.com/PoisonIsBestType/dotfiles#-dependencies">Dependencies</a>
 
 - <a href="https://github.com/PoisonIsBestType/dotfiles#-clone-the-files">Clone</a>
@@ -153,7 +149,7 @@ _______
 <i>(essential for out of the box usage)</i>
 
 
-<h3 align="center">⚙️ System </h3>
+<p align="center">⚙️ System </p>
 
 | Name | Function | Description |
 |-------------------|-----------------------|-------------|
@@ -171,7 +167,7 @@ _______
 | [network-manager-applet](https://gitlab.gnome.org/GNOME/network-manager-applet) | NM systray display | Integrates nicely with any system |
 | [xfce4-power-manager](https://docs.xfce.org/xfce/xfce4-power-manager/start) | Power manager | Excellent for dealing with sleep, monitor timeout, and other power management features |
 
-<h3 align="center">🌸 BlackLotus theme-files</h3>
+<p align="center">🌸 BlackLotus theme-files</p>
 
 | Name | Function | Description |
 |-------------------|-----------------------|-------------|
@@ -179,7 +175,7 @@ _______
 | [BLACK-Pomegranate-Numix](https://www.gnome-look.org/p/1335817) | Icon theme | Purple accent |
 | [Sunity-cursors](https://www.gnome-look.org/p/1703043) | Cursor theme | Midway through classic and modern |
 
-<h3 align="center">📜 OldBook theme-files</h3>
+<p align="center">📜 OldBook theme-files</p>
 
 | Name | Function | Description |
 |-------------------|-----------------------|-------------|
