@@ -45,11 +45,11 @@ These dotfiles are meant to be used with both `OpenSuse Tumbleweed` and `Linux M
 
 Avaliable in two colorschemes: BlackLotus (dark) and OldBook (light).
 
-<h3 align="center">🌸 BlackLotus: </h3>
+<p align="center">🌸 BlackLotus: </p>
 
 ![](./desktop-blacklotus.png)
 
-<h3 align="center">📜 OldBook: </h3>
+<p align="center">📜 OldBook: </p>
 
 ![](./desktop-oldbook.png)
 
