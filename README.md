@@ -152,6 +152,8 @@ _______
 ### Program list:
 <i>(essential for out of the box usage)</i>
 
+📜 System
+
 | Name | Function | Description |
 |-------------------|-----------------------|-------------|
 | [awesomewm](https://awesomewm.org/) | Window manager | Main environment |
@@ -169,13 +171,15 @@ _______
 | [xfce4-power-manager](https://docs.xfce.org/xfce/xfce4-power-manager/start) | Power manager | Excellent for dealing with sleep, monitor timeout, and other power management features |
 
 <h3 align="center">🌸 BlackLotus theme-files</h3>
+
 | Name | Function | Description |
 |-------------------|-----------------------|-------------|
 | [Numix-BLACK-ice](https://www.gnome-look.org/p/1335655) | GTK theme | Dark grey with light blue accents |
 | [BLACK-Pomegranate-Numix](https://www.gnome-look.org/p/1335817) | Icon theme | Purple accent |
 | [Sunity-cursors](https://www.gnome-look.org/p/1703043) | Cursor theme | Midway through classic and modern |
 
-📜 OldBook theme-files
+<h3 align="center">📜 OldBook theme-filess</h3>
+
 | Name | Function | Description |
 |-------------------|-----------------------|-------------|
 | [Breeze-Solarized-Light](https://www.gnome-look.org/p/1241238) | GTK theme | Beautifully tanned |
