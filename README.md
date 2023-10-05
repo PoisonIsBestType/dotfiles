@@ -328,8 +328,7 @@ _______
 _______
 
 
-<p align="center">This is a noob's repository, don't expect much!
-
-Have a good one!</p>
+<p align="center">This is a noob's repository, don't expect much!</p>
+<p align="center">Have a good one!</p>
 
 _______
