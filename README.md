@@ -3,7 +3,7 @@
 
 _______
 
-<p align="center"> Original <code>awesomewm</code> desing by [PapyElGringo](https://github.com/material-shell/material-awesome), this version is based on [ChrisTitusTech](https://github.com/ChrisTitusTech/titus-awesome)'s fork. </p>
+<p align="center"> Original <code>awesomewm</code> desing by <a href="https://github.com/material-shell/material-awesome">PapyElGringo</a> [PapyElGringo](https://github.com/material-shell/material-awesome), this version is based on [ChrisTitusTech](https://github.com/ChrisTitusTech/titus-awesome)'s fork. </p>
 
 _______
 
