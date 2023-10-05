@@ -35,7 +35,7 @@ Click here
 
 - <a href="https://github.com/PoisonIsBestType/dotfiles#-set-the-themes">Set themes</a>
 
-- <a href="https://github.com/PoisonIsBestType/dotfiles#%EF%B8%8F-keybinds-%EF%B8%8F">Keybinds</a>
+- <a href="https://github.com/PoisonIsBestType/dotfiles#-keybinds-">Keybinds</a>
 
 - <a href="https://github.com/PoisonIsBestType/dotfiles#-documentation-">Documentation</a>
 
