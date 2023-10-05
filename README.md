@@ -152,7 +152,8 @@ _______
 ### Program list:
 <i>(essential for out of the box usage)</i>
 
-📜 System
+
+<h3 align="center">🌸 System </h3>
 
 | Name | Function | Description |
 |-------------------|-----------------------|-------------|
