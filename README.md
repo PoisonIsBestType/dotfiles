@@ -70,7 +70,7 @@ _______
 <h3 align="center">Top Panel </h3>
 
   
-- Left side
+- Left side (volume, time/calendar/date, wheather, spotify)
 
 <img src="wibar-left.png">
 
@@ -78,7 +78,7 @@ _______
 
 <img src="tag-list.png">
 
-- Right side
+- Right side (cpu/ram usage, temperature, connection, tile layout)
 
 <img src="wibar-right.png">
 
@@ -87,15 +87,15 @@ _______
 <h3 align="center">Modules / Widgets </h3>
 
   
-- Exit-screen
+- Exit-screen (P/R/S/O/L keys and mouse control)
 
 <img src="exit-screen.png">
 
-- Calendar
+- Calendar (Click time/date to show/hide and scroll to change month)
 
 <img src="calendar.png">
 
-- Lock-screen
+- Lock-screen (i3lock)
 
 <img src="i3lock.png">
 
@@ -113,7 +113,7 @@ _______
 
 <h3 align="center">Applications </h3>
   
-- Alacritty
+- Alacritty (pure Vim show terminal colors)
 
 <img src="text.png">
 
@@ -125,7 +125,7 @@ _______
 
 <img src="ranger.png">
 
-- Rofi
+- Rofi (drun)
 
 <img src="rofi.png">
 
