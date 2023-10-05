@@ -83,7 +83,7 @@ _______
 <h3 align="center">Modules / Widgets </h3>
 
   
-- Exit-screen (P/R/S/O/L keys and mouse control)
+- Exit-screen (P/R/S/O/L keys and mouse activation)
 
 <img src="exit-screen.png">
 
@@ -109,7 +109,7 @@ _______
 
 <h3 align="center">Applications </h3>
   
-- Alacritty (pure Vim showing terminal colors)
+- Alacritty (Vim showing terminal colors)
 
 <img src="text.png">
 
