@@ -1,6 +1,5 @@
 <h1 align="center">📁 DotFiles 📁</h1>
 
-_______
 <i>Almeida's</i> `.config` <i>backup & a noob's work in progress.</i>
 _______
 
