@@ -261,7 +261,7 @@ _______
 
 Edit `~/.config/awesome/theme/default-theme.lua`, `~/.config/bpytop/bpytop.conf`, `~/.config/ranger/rc.conf` and `~/.config/rofi/menu.rasi` to set the chosen colorscheme.
 
-Start `lxappearance` to activate the **GTK/Icons/Cursor** themes.
+Start `lxappearance` to activate the **GTK**, **icons** and **cursor** themes.
 
 Place the content from ```gtk-3.0``` in both `~/.config/gtk-3.0/` and `/root/.config/gtk-3.0/` for the change to also show up in applications run as root. Also good idea to edit `~/.icons/default/index.theme` and place the `theme-files` in their respective `/usr/share/` places.
 
