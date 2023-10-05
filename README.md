@@ -150,7 +150,7 @@ _______
 <h2 align="center"> SETUP </h2>
 
 ### Program list:
-<i>essentials</i>
+<i>(essential for out of the box usage)</i>
 
 - [AwesomeWM](https://awesomewm.org/) as the **window manager**
 - [JetBrainsMono Nerd Font](https://www.nerdfonts.com/font-downloads) as the **font**
