@@ -29,7 +29,7 @@ Click here
 
 - <a href="https://github.com/PoisonIsBestType/dotfiles/blob/main/README.md#-oldbook-theme-filess">OldBook theme-files</a>
 
-- <a href="https://github.com/PoisonIsBestType/dotfiles#dependencies">Dependencies</a>
+- <a href="https://github.com/PoisonIsBestType/dotfiles#-dependencies">Dependencies</a>
 
 - <a href="https://github.com/PoisonIsBestType/dotfiles#clone-the-files">Clone</a>
 
