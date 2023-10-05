@@ -33,7 +33,7 @@ Click here
 
 - <a href="https://github.com/PoisonIsBestType/dotfiles#-clone-the-files">Clone</a>
 
-- <a href="https://github.com/PoisonIsBestType/dotfiles#set-the-themes">Set themes</a>
+- <a href="https://github.com/PoisonIsBestType/dotfiles#-set-the-themes">Set themes</a>
 
 - <a href="https://github.com/PoisonIsBestType/dotfiles#-keybinds-">Keybinds</a>
 
