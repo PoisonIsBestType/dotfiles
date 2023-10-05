@@ -187,7 +187,8 @@ _______
 ### 📦 Dependencies:
 <i>(most are optional, see [Program list](https://github.com/PoisonIsBestType/dotfiles/blob/main/README.md#program-list))</i>
 
-#### - OpenSUSE Tumbleweed:
+<p align="center"> OpenSUSE Tumbleweed </p>
+
 ```
 sudo zypper install awesome awesome-extra picom polkit polkit-gnome arandr feh lxappearance opi timeshift alacritty rofi neovim ranger xclip nemo xfce4-power-manager file-roller firefox xfce4-screenshooter neofetch cava gimp udisks2 gparted vlc xed transmission evince git xbacklight flatpak
 ```
@@ -199,7 +200,9 @@ flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.f
 flatpak install spotify vscodium citra
 ```
 
-#### - Linux Mint:
+
+<p align="center"> Linux Mint </p>
+
 ```
 sudo apt install awesome awesome-extra picom policykit-1-gnome arandr feh lxappearance timeshift alacritty rofi neovim ranger xclip nemo xfce4-power-manager file-roller firefox xfce4-screenshooter neofetch cava gimp udisks2 gparted vlc xed transmission evince git xbacklight spotify flatpak
 ```
@@ -323,6 +326,6 @@ _______
 
 This is a noob's repository, don't expect much!
 
-### Have a good one!
+<p align="center">Have a good one</p>
 
 _______
