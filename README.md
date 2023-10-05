@@ -25,9 +25,9 @@ Click here
 
 - <a href="https://github.com/PoisonIsBestType/dotfiles#program-list">Program List</a>
 
-- <a href="https://github.com/PoisonIsBestType/dotfiles#blacklotus-theme-files-">BlackLotus theme-files</a>
+- <a href="https://github.com/PoisonIsBestType/dotfiles#-blacklotus-theme-files">BlackLotus theme-files</a>
 
-- <a href="https://github.com/PoisonIsBestType/dotfiles#oldbook-theme-files-">OldBook theme-files</a>
+- <a href="https://github.com/PoisonIsBestType/dotfiles#-oldbook-theme-files">OldBook theme-files</a>
 
 - <a href="https://github.com/PoisonIsBestType/dotfiles#-dependencies">Dependencies</a>
 
