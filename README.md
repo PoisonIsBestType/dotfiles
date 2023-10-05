@@ -3,8 +3,11 @@
 
 _______
 
-A keyboard centered experience, with good mouse support.
 Original desing by [PapyElGringo](https://github.com/material-shell/material-awesome), this version is based on [ChrisTitusTech](https://github.com/ChrisTitusTech/titus-awesome)'s fork.
+
+A keyboard centered experience, with good mouse support. 
+
+This fork focus on streamlining the workflow with a hibrid keyboard/mouse usage. The whole system can be controled using only the keyboard, but the [keybinds](https://github.com/PoisonIsBestType/dotfiles#-keybinds-) are setup in a way to free the users right hand, concentrating the controls to the `W/A/S/D` area and using the `Super` key as main modkey.
 
 _______
 <h2 align="center"> INDEX </h2>
