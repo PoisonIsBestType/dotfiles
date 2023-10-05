@@ -1,4 +1,4 @@
-<h1 align="center">📁 DotFiles</h1>
+<h1 align="center">📁 DotFiles 📁</h1>
 <h3 align="center"><i>almeida's</i>  <b>".config"</b> <i>backup & a noob's work in progress.</i></h3>
 
 _______
@@ -12,7 +12,7 @@ A keyboard centered experience, with good mouse support.
 This fork focus on streamlining the workflow with a hibrid keyboard/mouse usage. The whole system can be controled using only the keyboard, but the [keybinds](https://github.com/PoisonIsBestType/dotfiles#-keybinds-) are setup focused on the left hand, freeing the users right hand by concentrating the controls to the `W/A/S/D` area and using the `Super` key as main modkey.
 
 _______
-<h2 align="center">📝 INDEX </h2>
+<h2 align="center">📝 INDEX 📝</h2>
 
 <details>
 <summary><b>
@@ -58,7 +58,7 @@ Avaliable in two colorschemes: BlackLotus (dark) and OldBook (light).
 ![](./desktop-oldbook.png)
 
 _______
-<h2 align="center">📷 GALERY </h2>
+<h2 align="center">📷 GALERY 📷</h2>
 
  <details>
 <summary><b>
@@ -147,7 +147,7 @@ _______
 
 _______
 
-<h2 align="center">🏗 SETUP </h2>
+<h2 align="center">🏗 SETUP 🏗</h2>
 
 ### Program list:
 <i>(essential for out of the box usage)</i>
@@ -270,7 +270,7 @@ Place the content from ```gtk-3.0``` in both `~/.config/gtk-3.0/` and `/root/.co
 
 _______
 
-<h2 align="center">⌨️ KEYBINDS </h2>
+<h2 align="center">⌨️ KEYBINDS ⌨️</h2>
 
 | MOD | KEY | Description |
 |-------------------|-----------------------|-------------|
@@ -309,7 +309,7 @@ _______
 
 _______
 
-<h2 align="center">📄 DOCUMENTATION </h2>
+<h2 align="center">📄 DOCUMENTATION 📄</h2>
 
 The documentation live within the source code.
 
