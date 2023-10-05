@@ -23,7 +23,7 @@ Click here
 
 - <a href="https://github.com/PoisonIsBestType/dotfiles#-setup-">Setup</a>
 
-- <a href="https://github.com/PoisonIsBestType/dotfiles#-program-list">Program List</a>
+- <a href="https://github.com/PoisonIsBestType/dotfiles#-program-list">Program list</a>
 
 - <a href="https://github.com/PoisonIsBestType/dotfiles#-dependencies">Dependencies</a>
 
