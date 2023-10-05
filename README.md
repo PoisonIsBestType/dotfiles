@@ -125,7 +125,7 @@ _______
 
 <img src="ranger.png">
 
-- Rofi (based on[Adamekka](https://github.com/Adamekka/rofi)'s config)
+- Rofi (based on [Adamekka](https://github.com/Adamekka/rofi)'s config)
 
 <img src="rofi.png">
 
