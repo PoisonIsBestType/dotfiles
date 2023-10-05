@@ -1,6 +1,6 @@
 <h1 align="center">📁 DotFiles 📁</h1>
 
-<i>Almeida's</i> `.config` <i>backup & a noob's work in progress.</i>
+<p align="center"><i>Almeida's</i> `.config` <i>backup & a noob's work in progress.</i></p>
 _______
 
 Original `awesomewm` desing by [PapyElGringo](https://github.com/material-shell/material-awesome), this version is based on [ChrisTitusTech](https://github.com/ChrisTitusTech/titus-awesome)'s fork.
