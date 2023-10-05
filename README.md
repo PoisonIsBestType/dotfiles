@@ -323,6 +323,10 @@ The project is split in functional directories and in each of them there is a re
 
 _______
 
+<a href="https://github.com/PoisonIsBestType/dotfiles#-dotfiles-">⬆️ Back to the top</a>
+
+_______
+
 
 This is a noob's repository, don't expect much!
 
