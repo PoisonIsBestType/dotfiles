@@ -4,6 +4,8 @@ local capi = {button = button}
 local gears = require('gears')
 local clickable_container = require('widget.material.clickable-container')
 
+-- Task-list is disable by default, but if wanted just uncomment two lines in top-panel.lua
+
 local function create_buttons(buttons, object)
   if buttons then
     local btns = {}
