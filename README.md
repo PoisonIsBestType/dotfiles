@@ -31,7 +31,7 @@ Click here
 
 - <a href="https://github.com/PoisonIsBestType/dotfiles#-set-the-themes">Set themes</a>
 
-- <a href="https://github.com/PoisonIsBestType/dotfiles#%EF%B8%8F-keybinds-%EF%B8%8F">Keybinds</a>
+- <a href="https://github.com/PoisonIsBestType/dotfiles#-keybinds-">Keybinds</a>
 
 - <a href="https://github.com/PoisonIsBestType/dotfiles#-documentation-">Documentation</a>
 
@@ -65,32 +65,32 @@ Click here
 <p align="center">Top Panel: </p>
 
   
-- Left side (<i>volume, time/calendar/date, wheather, spotify</i>)
+- Left side <i>(volume, time/calendar/date, wheather, spotify)</i>
 
 <img src="wibar-left.png">
 
-- Center (<i>tag-list</i>)
+- Center <i>(tag-list)</i>
 
 <img src="tag-list.png">
 
-- Right side (<i>cpu/ram usage, temperature, network, tile-layout</i>)
+- Right side <i>(cpu/ram usage, temperature, network, tile-layout)</i>
 
 <img src="wibar-right.png">
 
 _______
 
-<p align="center">Modules: / Widgets </p>
+<p align="center">Modules / Widgets: </p>
 
   
-- Exit-screen (<i>P/R/S/O/L keys and mouse activation</i>)
+- Exit-screen <i>(P/R/S/O/L keys and mouse activation)</i>
 
 <img src="exit-screen.png">
 
-- Calendar (<i>click time/date to show/hide and scroll to change month</i>)
+- Calendar <i>(click time/date to show/hide and scroll to change month)</i>
 
 <img src="calendar.png">
 
-- Lock-screen (<i>i3lock</i>)
+- Lock-screen <i>(i3lock)</i>
 
 <img src="i3lock.png">
 
@@ -108,7 +108,7 @@ _______
 
 <p align="center">Applications: </p>
   
-- Alacritty (<i>Vim showing terminal colors</i>)
+- Alacritty <i>(Vim showing terminal colors)</i>
 
 <img src="text.png">
 
@@ -120,7 +120,7 @@ _______
 
 <img src="ranger.png">
 
-- Rofi (<i>based on [Adamekka](https://github.com/Adamekka/rofi)'s config</i>)
+- Rofi <i>(based on [Adamekka](https://github.com/Adamekka/rofi)'s config)</i>
 
 <img src="rofi.png">
 
