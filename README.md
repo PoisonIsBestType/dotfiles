@@ -61,44 +61,43 @@ _______
 Click here 
 </b></summary>
   
-_______
   
-<p align="center">Top Panel </p>
+<p align="center">Top Panel: </p>
 
   
-- Left side (volume, time/calendar/date, wheather, spotify)
+- Left side (<i>volume, time/calendar/date, wheather, spotify</i>)
 
 <img src="wibar-left.png">
 
-- Center (tag-list)
+- Center (<i>tag-list</i>)
 
 <img src="tag-list.png">
 
-- Right side (cpu/ram usage, temperature, network, tile-layout)
+- Right side (<i>cpu/ram usage, temperature, network, tile-layout</i>)
 
 <img src="wibar-right.png">
 
 _______
 
-<p align="center">Modules / Widgets </p>
+<p align="center">Modules: / Widgets </p>
 
   
-- Exit-screen (P/R/S/O/L keys and mouse activation)
+- Exit-screen (<i>P/R/S/O/L keys and mouse activation</i>)
 
 <img src="exit-screen.png">
 
-- Calendar (click time/date to show/hide and scroll to change month)
+- Calendar (<i>click time/date to show/hide and scroll to change month</i>)
 
 <img src="calendar.png">
 
-- Lock-screen (i3lock)
+- Lock-screen (<i>i3lock</i>)
 
 <img src="i3lock.png">
 
 
 _______
 
-<p align="center">GTK / Icons </p>
+<p align="center">GTK / Icons: </p>
 
   
 - Nemo
@@ -107,9 +106,9 @@ _______
 
 _______
 
-<p align="center">Applications </p>
+<p align="center">Applications: </p>
   
-- Alacritty (Vim showing terminal colors)
+- Alacritty (<i>Vim showing terminal colors</i>)
 
 <img src="text.png">
 
@@ -121,13 +120,13 @@ _______
 
 <img src="ranger.png">
 
-- Rofi (based on [Adamekka](https://github.com/Adamekka/rofi)'s config)
+- Rofi (<i>based on [Adamekka](https://github.com/Adamekka/rofi)'s config</i>)
 
 <img src="rofi.png">
 
 _______
 
-<p align="center">Screenshots </p>
+<p align="center">Screenshots: </p>
   
 - BlackLotus
 
@@ -279,7 +278,7 @@ _______
 | `Super` | `Pause` | Lock screen |
 | `Super`+`Ctrl` | `Q` | Quit awesome |
 | `Super` | `W/A/S/D/Z/X/C` | View tag 1~7 |
-| `Super`+`Ctrl` | `W/A/S/D/Z/X/C` | Move client to tag 1~7 |
+| `Super`+`Ctrl` | `W/A/S/D/Z/X/C` | Move focused client to tag 1~7 |
 | `Super`+`Shift` | `W/A/S/D/Z/X/C` | Toggle tag 1~7 |
 | `Super` | `Q` | Close focused client |
 | `Super` | `Enter` | Open tag's default application |
