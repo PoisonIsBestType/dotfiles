@@ -1,7 +1,7 @@
 local awful = require('awful')
 local beautiful = require('beautiful')
 local wibox = require('wibox')
-local TaskList = require('widget.task-list')
+--local TaskList = require('widget.task-list')
 local TagList = require('widget.tag-list')
 local gears = require('gears')
 local clickable_container = require('widget.material.clickable-container')
@@ -230,6 +230,7 @@ local TopPanel = function(s)
         wibox.container.margin(weather, 2, 2, 0, 0),
         separator,
         wibox.container.margin(spotify_widget(), 6, 2, 2, 2),
+        TaskList(s),
         
       },
       nil,
