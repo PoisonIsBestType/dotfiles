@@ -154,7 +154,7 @@ _______
 | Name | Function | Description |
 |-------------------|-----------------------|-------------|
 | [awesomewm](https://awesomewm.org/) | Window manager | Main environment |
-| [JetBrainsMono Nerd Font](https://www.nerdfonts.com/font-downloads) | Font | Applied systemwide | 
+| [JetBrainsMono Nerd Font](https://www.nerdfonts.com/font-downloads) | Font | Applied system-wide | 
 | [alacritty](https://github.com/alacritty/alacritty) | Terminal  emulator | Fast and simple |
 | [rofi](https://github.com/DaveDavenport/rofi) | App launcher | Functional and very customizable |
 | [nemo](https://github.com/linuxmint/nemo) | File-manager | One of the best GUI file managers |
