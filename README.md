@@ -160,7 +160,7 @@ _______
 | [nemo](https://github.com/linuxmint/nemo) | File-manager | One of the best GUI file managers |
 | [picom](https://github.com/yshui/picom) | Compositor | Can be replaced with **compton** editing `apps.lua` |
 | [feh](https://github.com/derf/feh) | Background setter | Simple but able to randomize |
-| [i3lock-color](https://github.com/Raymo111/i3lock-color) | Lockscreen application | Light and customizeble |
+| [i3lock-color](https://github.com/Raymo111/i3lock-color) | Lockscreen application | Light and customizable |
 | [gnome-polkit](https://developer-old.gnome.org/platform-overview/unstable/tech-polkit.html.en) | Policy handling | Integrates nicely for elevating programs that need root access |
 | [lxappearance](https://sourceforge.net/projects/lxde/files/LXAppearance/) | Icon/GTK/Cursor theme setter | Not necessary but helpful GUI option |
 | [xfce4-screenshooter](https://docs.xfce.org/apps/screenshooter/start) | Screenshot app | Full-screen/Area/Delay support with GUI helper |
