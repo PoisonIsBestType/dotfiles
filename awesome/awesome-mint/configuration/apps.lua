@@ -5,7 +5,7 @@ return {
   default = {
     terminal = 'alacritty',
     rofi = 'rofi -show drun',
-    lock = 'bash -c "(sh ~/.config/awesome/scripts/lock.sh)"',
+    lock = 'bash -c "(sh ~/.config/awesome/scripts/blacklotus-lock.sh)"',
     screenshot = 'xfce4-screenshooter -f',
     region_screenshot = 'xfce4-screenshooter -r',
     delayed_screenshot = 'xfce4-screenshooter -d 10 -f',
