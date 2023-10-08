@@ -12,6 +12,7 @@ _______
 This fork is a hybrid keyboard/mouse driven setup. The whole system can be controled by using the keyboard alone, but the [keybinds](https://github.com/PoisonIsBestType/dotfiles#%EF%B8%8F-keybinds-%EF%B8%8F) focus on left hand usage  by concentrating the controls in the `W/A/S/D` area and using the `Super` key as main modkey, freeing the user's right hand to use the mouse as needed.
 
 _______
+_______
 <h2 align="center">📝 INDEX 📝</h2>
 
 <details>
@@ -42,6 +43,7 @@ Click here
 </details>
 
 _______
+_______
 
 These dotfiles are meant to be used with both `OpenSuse Tumbleweed` and `Linux Mint` using `awesomewm` as desktop environment, but they could work on any other distro with some tinkering.
 
@@ -56,6 +58,8 @@ Avaliable in both dark and light colorschemes:
 ![](./desktop-oldbook.png)
 
 _______
+_______
+
 <h2 align="center">📷 GALERY 📷</h2>
 
  <details>
@@ -143,8 +147,11 @@ _______
 </details>
 
 _______
+_______
 
 <h2 align="center">🏗 SETUP 🏗</h2>
+
+_______
 
 ### 💻 Program list:
 <i>(essential for out of the box usage)</i>
@@ -316,6 +323,7 @@ _______
 
 
 _______
+_______
 
 <h2 align="center">📄 DOCUMENTATION 📄</h2>
 
@@ -330,6 +338,7 @@ The project is split in functional directories and in each of them there is a re
 * [Theme](./awesome/awesome-suse/theme) hold all the **aesthetic** aspects
 * [Widget](./awesome/awesome-suse/widget) contain all the **widgets** available
 
+_______
 _______
 
 <a href="https://github.com/PoisonIsBestType/dotfiles#-dotfiles-">⬆️ Back to the top</a>
