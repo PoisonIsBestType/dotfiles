@@ -289,9 +289,9 @@ _______
 | `Super` | `B` | Browser |
 | `Super` | `H` | Ranger |
 | `Super` | `M` | BpyTOP |
-| `Super` | `Tab` | Last tag |
-| `Super` | `=` | Next tag |
-| `Super` | `-` | Previous tag |
+| `Super` | `Tab` | Last viewed tag |
+| `Super` | `=` | Next tag by index |
+| `Super` | `-` | Previous tag by index|
 | `Super` | `Up` | Focus client above |
 | `Super` | `Down` | Focus client below |
 | `Super` | `Left` | Focus client to the left |
