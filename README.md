@@ -290,7 +290,7 @@ in `~/.config/neofetch/config.conf`
 `--image="/home/almeida/.config/awesome/background/*-stripe.png" \`
 in `~/.config/awesome/scripts/*-lock.sh` 
 
-Replacing `almeida` for your username, so the paths are correct.
+Replacing `almeida` for your username to rectify the image paths.
 
 _______
 _______
