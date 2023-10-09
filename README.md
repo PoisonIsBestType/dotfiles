@@ -16,7 +16,7 @@ Click here
 
 - <a href="https://github.com/PoisonIsBestType/dotfiles#-galery-">Galery</a>
 
-- <a href="https://github.com/PoisonIsBestType/dotfiles#-setup-">Setup</a>
+- <a href="https://github.com/PoisonIsBestType/dotfiles#-setup-">Manual Setup</a>
 
 - <a href="https://github.com/PoisonIsBestType/dotfiles#-program-list">Program list</a>
 
@@ -149,7 +149,7 @@ _______
 _______
 _______
 
-<h2 align="center">🏗 SETUP 🏗</h2>
+<h2 align="center">🏗 MANUAL SETUP 🏗</h2>
 
 
 
@@ -190,10 +190,36 @@ _______
 | [Breeze-Solarized-Light](https://www.gnome-look.org/p/1241238) | GTK theme | Beautifully tanned |
 | [Adwaita](https://gnome.pages.gitlab.gnome.org/libadwaita/) | Icon theme | A classic |
 | [Sunity-cursors](https://www.gnome-look.org/p/1703043) | Cursor theme | Midway through classic and modern |
+
 _______
 
-### 📦 Dependencies:
-<i>(most are optional, see [Program list](https://github.com/PoisonIsBestType/dotfiles#-program-list))</i>
+
+### 📥 Clone the files
+
+```
+git clone --depth=1 --recursive https://github.com/PoisonIsBestType/dotfiles.git
+```
+
+Then place the chosen files (<i>BlackLotus or OldBook, Mint or Suse</i>) into their respective folders:
+- `~/.themes`, `~/.icons` and `~/.fonts` for `theme-files`
+- `~` for `bash` (optional)
+- `/lib/python3.11/site-packages/ranger/colorschemes` or `/lib/python3/dist-packages/ranger/colorschemes`for `ranger/*.py`
+- `~/.config` for the rest
+
+_______
+_______
+
+<h2 align="center">🤖 AUTO SETUP 🤖</h2>
+
+---TODO---
+(soon I will put here an automated way to setup the config for both OldBook and BlackLotus in both OpenSUSE and Mint)
+
+ <details>
+<summary><b>
+Click here 
+</b></summary>
+
+For now, here are some dependencies install commands:
 
 <p align="center"> OpenSUSE Tumbleweed </p>
 
@@ -224,21 +250,9 @@ cd i3lock-color
 flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
 flatpak install vscodium citra
 ```
-_______
 
 
-### 📥 Clone the files
 
-```
-git clone --depth=1 --recursive https://github.com/PoisonIsBestType/dotfiles.git
-```
-Then place the chosen files (<i>BlackLotus or OldBook, Mint or Suse</i>) into their respective folders:
-- `~/.themes`, `~/.icons` and `~/.fonts` for `theme-files`
-- `~` for `bash`
-- `/lib/python3.11/site-packages/ranger/colorschemes` or `/lib/python3/dist-packages/ranger/colorschemes`for `ranger/*.py`
-- `~/.config` for the rest
-
-or 
 ```
 git clone --depth=1 --recursive https://github.com/PoisonIsBestType/dotfiles.git
 cd dotfiles
@@ -259,20 +273,7 @@ Then:
 - Delete the unneeded files.
 - Move `ranger/*.py` to `/lib/python3.11/site-packages/ranger/colorschemes` or `/lib/python3/dist-packages/ranger/colorschemes`.
 
-
-
-
-
-_______
-
-### 🎨 Set the themes
-
-Edit `~/.config/awesome/theme/default-theme.lua`, `~/.config/bpytop/bpytop.conf`, `~/.config/ranger/rc.conf` and `~/.config/rofi/menu.rasi` to set the chosen colorscheme.
-
-Start `lxappearance` to activate the **GTK**, **icons** and **cursor** themes.
-
-Place the content from ```gtk-3.0``` in both `~/.config/gtk-3.0/` and `/root/.config/gtk-3.0/` for the change to also show up in applications run as root. Also good idea to edit `~/.icons/default/index.theme` and copy the `theme-files` to their respective `/usr/share/` directories.
-
+</details>
 
 _______
 
@@ -280,6 +281,17 @@ _______
 
 Edit the lines `image_source="/home/almeida/.config/neofetch/*"` in
  `~/.config/neofetch/config.conf` and `--image="/home/almeida/.config/awesome/background/*-stripe.png" \` in `~/.config/awesome/scripts/*-lock.sh` replacing `almeida` for your username.
+
+_______
+_______
+
+<h2 align="center"> 🎨 SET THE THEME </h2>
+
+Edit `~/.config/awesome/theme/default-theme.lua`, `~/.config/bpytop/bpytop.conf`, `~/.config/ranger/rc.conf` and `~/.config/rofi/menu.rasi` to set the chosen colorscheme.
+
+Start `lxappearance` to activate the **GTK**, **icons** and **cursor** themes.
+
+Place the content from ```gtk-3.0``` in both `~/.config/gtk-3.0/` and `/root/.config/gtk-3.0/` for the change to also show up in applications run as root. Also good idea to edit `~/.icons/default/index.theme` and copy the `theme-files` to their respective `/usr/share/` directories.
 
 
 _______
