@@ -280,8 +280,16 @@ _______
 
 ### 🏁 Post install
 
-Edit the lines `image_source="/home/almeida/.config/neofetch/*"` in
- `~/.config/neofetch/config.conf` and `--image="/home/almeida/.config/awesome/background/*-stripe.png" \` in `~/.config/awesome/scripts/*-lock.sh` replacing `almeida` for your username.
+Edit the lines:
+
+`image_source="/home/almeida/.config/neofetch/*"` in
+ `~/.config/neofetch/config.conf` 
+
+&
+
+`--image="/home/almeida/.config/awesome/background/*-stripe.png" \` in `~/.config/awesome/scripts/*-lock.sh` 
+
+Replacing `almeida` for your username, so the paths are correct.
 
 _______
 _______
