@@ -282,12 +282,13 @@ _______
 
 Edit the lines:
 
-`image_source="/home/almeida/.config/neofetch/*"` in
- `~/.config/neofetch/config.conf` 
+`image_source="/home/almeida/.config/neofetch/*"`
+in `~/.config/neofetch/config.conf` 
 
 &
 
-`--image="/home/almeida/.config/awesome/background/*-stripe.png" \` in `~/.config/awesome/scripts/*-lock.sh` 
+`--image="/home/almeida/.config/awesome/background/*-stripe.png" \`
+in `~/.config/awesome/scripts/*-lock.sh` 
 
 Replacing `almeida` for your username, so the paths are correct.
 
