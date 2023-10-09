@@ -297,7 +297,17 @@ _______
 
 <h2 align="center">🎨 SET THE THEME 🎨</h2>
 
-Edit `~/.config/awesome/theme/default-theme.lua`, `~/.config/bpytop/bpytop.conf`, `~/.config/ranger/rc.conf` and `~/.config/rofi/menu.rasi` to set the chosen colorscheme.
+<i>(by default the config files are set to BlackLotus)</i>
+
+Set the chosen colorscheme by editing:
+
+`~/.config/awesome/theme/default-theme.lua`
+
+`~/.config/bpytop/bpytop.conf` 
+
+`~/.config/ranger/rc.conf`
+
+`~/.config/rofi/menu.rasi`
 
 Start `lxappearance` to activate the **GTK**, **icons** and **cursor** themes.
 
