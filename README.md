@@ -45,7 +45,7 @@ This fork is a hybrid keyboard/mouse driven setup. The whole system can be contr
 
 
 
-These dotfiles are meant to be used with both `OpenSuse Tumbleweed` and `Linux Mint` using `awesomewm` as desktop environment, but they could work on any other distro with some tinkering.
+<i>These dotfiles are meant to be used with both</i> `OpenSuse Tumbleweed` <i>and</i> `Linux Mint` <i>using</i> `awesomewm` <i>as desktop environment, but they could work on any other distro with some tinkering.</i>
 
 Avaliable in both dark and light colorschemes:
 
