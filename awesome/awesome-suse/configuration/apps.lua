@@ -24,7 +24,7 @@ return {
     --'numlockx on',
     '/usr/libexec/polkit-gnome-authentication-agent-1 & eval $(gnome-keyring-daemon -s --components=pkcs11,secrets,ssh,gpg)', -- credential manager
     'xfce4-power-manager',
-    'feh --bg-fill ~/.config/awesome/background/blacklotus-lotus.png',
+    'feh --bg-fill ~/.config/awesome/background/blacklotus-tumbleweed.png',
     -- Add applications that need to be killed between reloads
     -- to avoid multipled instances, inside the awspawn script
     '~/.config/awesome/configuration/awspawn', -- Spawn "dirty" apps that can linger between sessions
