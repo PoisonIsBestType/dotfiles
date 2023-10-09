@@ -297,7 +297,7 @@ _______
 
 <h2 align="center">🎨 SET THE THEME 🎨</h2>
 
-<i>(by default the config files are set to BlackLotus)</i>
+<p align="center"><i>(by default the config files are set to BlackLotus)</i></p>
 
 Set the chosen colorscheme by editing:
 
