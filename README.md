@@ -274,7 +274,7 @@ Then:
 
 </details>
 
-<i>(soon I will put here an automated way to setup the config for both OldBook and BlackLotus in both OpenSUSE and Mint)</i>
+<i>(soon there will be an automated way to setup the config, for both OldBook/BlackLotus in both OpenSUSE/Mint, avaliable)</i>
 _______
 _______
 
