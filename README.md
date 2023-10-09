@@ -203,7 +203,7 @@ git clone --depth=1 --recursive https://github.com/PoisonIsBestType/dotfiles.git
 Then place the chosen files (<i>BlackLotus or OldBook, Mint or Suse</i>) into their respective folders:
 - `~/.themes/`, `~/.icons/` and `~/.fonts/` for `theme-files`
 - `~/` for `bash` (optional)
-- `/lib/python3.11/site-packages/ranger/colorschemes/` or `/lib/python3/dist-packages/ranger/colorschemes/`for `ranger/*.py`
+- `/lib/python3*/.../ranger/colorschemes/` for `ranger/*.py`
 - `~/.config/` for the rest
 
 _______
