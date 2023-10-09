@@ -230,7 +230,7 @@ local TopPanel = function(s)
         wibox.container.margin(weather, 2, 2, 0, 0),
         separator,
         wibox.container.margin(spotify_widget(), 6, 2, 2, 2),
-        TaskList(s),
+        --TaskList(s),
         
       },
       nil,
