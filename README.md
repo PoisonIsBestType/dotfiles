@@ -7,7 +7,7 @@ _______
 
 _______
 _______
-<h2 align="center">📝 INDEX 📝</h2>
+<p align="center">📝 INDEX 📝</p>
 
 <details>
 <summary><b>
