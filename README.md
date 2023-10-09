@@ -26,7 +26,7 @@ Click here
 
 - <a href="https://github.com/PoisonIsBestType/dotfiles#-post-install">Post install</a>
 
-- <a href="https://github.com/PoisonIsBestType/dotfiles#-set-the-theme-">Set th theme</a>
+- <a href="https://github.com/PoisonIsBestType/dotfiles#-set-the-theme-">Set the theme</a>
 
 - <a href="https://github.com/PoisonIsBestType/dotfiles#%EF%B8%8F-keybinds-%EF%B8%8F">Keybinds</a>
 
@@ -285,7 +285,7 @@ Edit the lines `image_source="/home/almeida/.config/neofetch/*"` in
 _______
 _______
 
-<h2 align="center"> 🎨 SET THE THEME </h2>
+<h2 align="center">🎨 SET THE THEME 🎨</h2>
 
 Edit `~/.config/awesome/theme/default-theme.lua`, `~/.config/bpytop/bpytop.conf`, `~/.config/ranger/rc.conf` and `~/.config/rofi/menu.rasi` to set the chosen colorscheme.
 
