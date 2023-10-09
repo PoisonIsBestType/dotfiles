@@ -303,11 +303,15 @@ Set the chosen colorscheme by editing:
 
 `~/.config/awesome/theme/default-theme.lua`
 
+`~/.config/awesome/configuration/apps.lua` <i>(set Lockscreen and Wallpaper)</i>
+
 `~/.config/bpytop/bpytop.conf` 
 
 `~/.config/ranger/rc.conf`
 
 `~/.config/rofi/menu.rasi`
+
+
 
 Start `lxappearance` to activate the **GTK**, **icons** and **cursor** themes.
 
