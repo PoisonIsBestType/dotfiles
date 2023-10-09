@@ -212,7 +212,6 @@ _______
 <h2 align="center">🤖 AUTO SETUP 🤖</h2>
 
 ---TODO---
-(soon I will put here an automated way to setup the config for both OldBook and BlackLotus in both OpenSUSE and Mint)
 
  <details>
 <summary><b>
@@ -251,7 +250,7 @@ flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.f
 flatpak install vscodium citra
 ```
 
-
+### Clone the files
 
 ```
 git clone --depth=1 --recursive https://github.com/PoisonIsBestType/dotfiles.git
@@ -275,6 +274,8 @@ Then:
 
 </details>
 
+<i>(soon I will put here an automated way to setup the config for both OldBook and BlackLotus in both OpenSUSE and Mint)</i>
+_______
 _______
 
 ### 🏁 Post install
