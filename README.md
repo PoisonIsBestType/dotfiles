@@ -318,6 +318,7 @@ _______
 _______
 
 <h2 align="center">⌨️ KEYBINDS ⌨️</h2>
+<p align="center">
 
 | MOD | KEY | Description |
 |-------------------|-----------------------|-------------|
@@ -352,7 +353,7 @@ _______
 | `Super` | `Space` | Toggle client floating |
 | `Super` | `F` | Toggle client full-screen |
 | `Super`+`Shift` | `Space` | Select next layout |
-
+</p>
 
 _______
 _______
