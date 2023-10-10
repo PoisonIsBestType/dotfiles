@@ -299,7 +299,7 @@ _______
 
 <p align="center"><i>(by default the config files are set to BlackLotus)</i></p>
 
-Set the chosen colorscheme by editing:
+- Set the chosen colorscheme by editing:
 
 `~/.config/awesome/theme/default-theme.lua`
 
@@ -315,9 +315,9 @@ Set the chosen colorscheme by editing:
 
 
 
-Start `lxappearance` to activate the **GTK**, **icons** and **cursor** themes.
+- Start `lxappearance` to activate the **GTK**, **icons** and **cursor** themes.
 
-Place the content from ```gtk-3.0``` in both `~/.config/gtk-3.0/` and `/root/.config/gtk-3.0/` for the change to also show up in applications run as root. Also good idea to edit `~/.icons/default/index.theme` and copy the `theme-files` to their respective `/usr/share/` directories.
+- Place the content from ```gtk-3.0``` in both `~/.config/gtk-3.0/` and `/root/.config/gtk-3.0/` for the change to also show up in applications run as root (also good idea to edit `~/.icons/default/index.theme` and copy the `theme-files` to their respective `/usr/share/` directories).
 
 
 _______
