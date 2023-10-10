@@ -311,13 +311,13 @@ _______
 
 `~/.config/rofi/menu.rasi`
 
-<i>For more wallpaper options you can access the</i> [BlackLotus](https://github.com/PoisonIsBestType/BlackLotus/tree/main/background)<i> and </i>[Oldbook](https://github.com/PoisonIsBestType/OldBook/tree/main/background) <i>repositories.</i>
+<i>(For more wallpaper options you can access the</i> [BlackLotus](https://github.com/PoisonIsBestType/BlackLotus/tree/main/background)<i> and </i>[Oldbook](https://github.com/PoisonIsBestType/OldBook/tree/main/background) <i>repositories)</i>
 
 
 
 - Start `lxappearance` to activate the **GTK**, **icons** and **cursor** themes.
 
-- Place the content from ```gtk-3.0``` in both `~/.config/gtk-3.0/` and `/root/.config/gtk-3.0/` for the change to also show up in applications run as root (also good idea to edit `~/.icons/default/index.theme` and copy the `theme-files` to their respective `/usr/share/` directories).
+- Place/edit the content from `gtk-3.0` in both `~/.config/gtk-3.0/` and `/root/.config/gtk-3.0/` for the change to also show up in applications run as root (also good idea to edit `~/.icons/default/index.theme` and copy the `theme-files` to their respective `/usr/share/` directories).
 
 
 _______
