@@ -311,6 +311,8 @@ Set the chosen colorscheme by editing:
 
 `~/.config/rofi/menu.rasi`
 
+<i>For more wallpaper options you can access the</i> [BlackLotus](https://github.com/PoisonIsBestType/BlackLotus/tree/main/background)<i> and </i>[Oldbook](https://github.com/PoisonIsBestType/OldBook/tree/main/background) <i>repositories.</i>
+
 
 
 Start `lxappearance` to activate the **GTK**, **icons** and **cursor** themes.
