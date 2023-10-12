@@ -182,7 +182,7 @@ exit_screen:buttons(
 )
 
 local bye = wibox.widget{
-  markup = 'Go to sleep already, Almeida!',
+  markup = 'Go to sleep already,' .. os.getenv('USER') .. '!',
   font = 'JetBrainsMono Nerd Font bold 20px',
   align  = 'center',
   valign = 'center',
