@@ -277,24 +277,6 @@ Then:
 <i>(soon there will be an automated way to setup the config, for both OldBook/BlackLotus in both OpenSUSE/Mint, avaliable)</i>
 _______
 _______
-
-### 🏁 Post install
-
-Edit the lines:
-
-`image_source="/home/almeida/.config/neofetch/*"`
-in `~/.config/neofetch/config.conf` 
-
-&
-
-`--image="/home/almeida/.config/awesome/background/*-stripe.png" \`
-in `~/.config/awesome/scripts/*-lock.sh` 
-
-Replacing `almeida` for your username to rectify the image paths.
-
-_______
-_______
-
 <h2 align="center">🎨 SET THE THEME 🎨</h2>
 
 <p align="center"><i>(by default the config files are set to BlackLotus)</i></p>
