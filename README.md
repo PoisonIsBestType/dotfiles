@@ -272,7 +272,7 @@ Then:
 
 </details>
 
-<i>(soon there will be an automated way to setup the config, for both OldBook/BlackLotus in both OpenSUSE/Mint, avaliable)</i>
+<i>(Automated setup available soon, for both colorschemes in OpenSUSE and Mint)</i>
 _______
 _______
 <h2 align="center">🎨 SET THE THEME 🎨</h2>
