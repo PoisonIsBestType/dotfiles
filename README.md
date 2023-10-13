@@ -24,8 +24,6 @@ Click here
 
 - <a href="https://github.com/PoisonIsBestType/dotfiles#-auto-setup-">Auto setup</a>
 
-- <a href="https://github.com/PoisonIsBestType/dotfiles#-post-install">Post install</a>
-
 - <a href="https://github.com/PoisonIsBestType/dotfiles#-set-the-theme-">Set the theme</a>
 
 - <a href="https://github.com/PoisonIsBestType/dotfiles#%EF%B8%8F-keybinds-%EF%B8%8F">Keybinds</a>
