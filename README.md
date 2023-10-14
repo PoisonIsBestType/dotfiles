@@ -73,13 +73,19 @@ Click here
 
 <img src="wibar-left.png">
 
+<img src="wibar-left-oldbook.png">
+
 - Center <i>(tag-list)</i>
 
 <img src="tag-list.png">
 
+<img src="tag-list-oldbook.png">
+
 - Right side <i>(cpu/ram usage, temperature, network, tile-layout)</i>
 
 <img src="wibar-right.png">
+
+<img src="wibar-right-oldbook.png">
 
 _______
 
@@ -90,14 +96,19 @@ _______
 
 <img src="exit-screen.png">
 
+<img src="exit-screen-oldbook.png">
+
 - Calendar <i>(click time/date to show/hide and scroll to change month)</i>
 
 <img src="calendar.png">
+
+<img src="calendar-oldbook.png">
 
 - Lock-screen <i>(i3lock)</i>
 
 <img src="i3lock.png">
 
+<img src="i3lock-oldbook.png">
 
 _______
 
@@ -108,6 +119,8 @@ _______
 
 <img src="gtk.png">
 
+<img src="gtk-oldbook.png">
+
 _______
 
 <p align="center">Applications: </p>
@@ -116,17 +129,25 @@ _______
 
 <img src="text.png">
 
+<img src="text-oldbook.png">
+
 - BpyTOP
 
 <img src="bpytop.png">
+
+<img src="bpytop-oldbook.png">
 
 - Ranger
 
 <img src="ranger.png">
 
+<img src="ranger-oldbook.png">
+
 - Rofi <i>(based on [Adamekka](https://github.com/Adamekka/rofi)'s config)</i>
 
 <img src="rofi.png">
+
+<img src="rofi-oldbook.png">
 
 _______
 
