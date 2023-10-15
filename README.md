@@ -1,4 +1,4 @@
-![img](z.picture/sawesome.png)
+![img](z.pictures/sawesome.png)
 <p align="center"><i>Almeida's</i> <code>.config</code> <i>backup & a noob's work in progress.</i></p>
 
 _______
