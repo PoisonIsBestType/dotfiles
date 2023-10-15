@@ -1,4 +1,4 @@
-<h1 align="center">📁 DotFiles 📁</h1>
+![img](awesome.png)
 <p align="center"><i>Almeida's</i> <code>.config</code> <i>backup & a noob's work in progress.</i></p>
 
 _______
