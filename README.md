@@ -7,7 +7,7 @@ _______
 
 _______
 _______
-![img](z.pictures/index.png)
+<h3 align="center">INDEX</h2>
 
 <details>
 <summary><b>
