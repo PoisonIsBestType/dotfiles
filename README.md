@@ -16,19 +16,19 @@ Click here
 
 - <a href="https://github.com/PoisonIsBestType/dotfiles#i">Galery</a>
 
-- <a href="https://github.com/PoisonIsBestType/dotfiles#-manual-setup-">Manual setup</a>
+- <a href="https://github.com/PoisonIsBestType/dotfiles#ii">Manual setup</a>
 
 - <a href="https://github.com/PoisonIsBestType/dotfiles#-program-list">Program list</a>
 
 - <a href="https://github.com/PoisonIsBestType/dotfiles#-clone-the-files">Clone the files</a>
 
-- <a href="https://github.com/PoisonIsBestType/dotfiles#-auto-setup-">Auto setup</a>
+- <a href="https://github.com/PoisonIsBestType/dotfiles#iii">Auto setup</a>
 
-- <a href="https://github.com/PoisonIsBestType/dotfiles#-set-the-theme-">Set the theme</a>
+- <a href="https://github.com/PoisonIsBestType/dotfiles#iv">Theme</a>
 
-- <a href="https://github.com/PoisonIsBestType/dotfiles#%EF%B8%8F-keybinds-%EF%B8%8F">Keybinds</a>
+- <a href="https://github.com/PoisonIsBestType/dotfiles#v">Keybind</a>
 
-- <a href="https://github.com/PoisonIsBestType/dotfiles#-documentation-">Documentation</a>
+- <a href="https://github.com/PoisonIsBestType/dotfiles#vi">Documentation</a>
 
 
 
