@@ -72,15 +72,21 @@ Click here
   
 - Left side <i>(volume, time/calendar/date, wheather, spotify)</i>
 
-<img src="wibar-left.png">
+<img src="z.pictures/wibar-left.png">
+
+<img src="z.pictures/wibar-left-oldbook.png">
 
 - Center <i>(tag-list)</i>
 
-<img src="tag-list.png">
+<img src="z.pictures/tag-list.png">
+
+<img src="z.pictures/tag-list-oldbook.png">
 
 - Right side <i>(cpu/ram usage, temperature, network, tile-layout)</i>
 
-<img src="wibar-right.png">
+<img src="z.pictures/wibar-right.png">
+
+<img src="z.pictures/wibar-right-oldbook.png">
 
 _______
 
@@ -89,16 +95,21 @@ _______
   
 - Exit-screen <i>(P/R/S/O/L keys and mouse activation)</i>
 
-<img src="exit-screen.png">
+<img src="z.pictures/exit-screen.png">
+
+<img src="z.pictures/exit-screen-oldbook.png">
 
 - Calendar <i>(click time/date to show/hide and scroll to change month)</i>
 
-<img src="calendar.png">
+<img src="z.pictures/calendar.png">
+
+<img src="z.pictures/calendar-oldbook.png">
 
 - Lock-screen <i>(i3lock)</i>
 
-<img src="i3lock.png">
+<img src="z.pictures/i3lock.png">
 
+<img src="z.pictures/i3lock-oldbook.png">
 
 _______
 
@@ -107,7 +118,9 @@ _______
   
 - Nemo
 
-<img src="gtk.png">
+<img src="z.pictures/gtk.png">
+
+<img src="z.pictures/gtk-oldbook.png">
 
 _______
 
@@ -115,19 +128,27 @@ _______
   
 - Alacritty <i>(Vim showing terminal colors)</i>
 
-<img src="text.png">
+<img src="z.pictures/text.png">
+
+<img src="z.pictures/text-oldbook.png">
 
 - BpyTOP
 
-<img src="bpytop.png">
+<img src="z.pictures/bpytop.png">
+
+<img src="z.pictures/bpytop-oldbook.png">
 
 - Ranger
 
-<img src="ranger.png">
+<img src="z.pictures/ranger.png">
+
+<img src="z.pictures/ranger-oldbook.png">
 
 - Rofi <i>(based on [Adamekka](https://github.com/Adamekka/rofi)'s config)</i>
 
-<img src="rofi.png">
+<img src="z.pictures/rofi.png">
+
+<img src="z.pictures/rofi-oldbook.png">
 
 _______
 
@@ -135,11 +156,11 @@ _______
   
 - BlackLotus
 
-<img src="blacklotus.png">
+<img src="z.pictures/blacklotus.png">
 
 - OldBook
 
-<img src="oldbook.png">
+<img src="z.pictures/oldbook.png">
 
 
 
