@@ -57,7 +57,7 @@ Avaliable in both dark and light colorschemes:
 
 _______
 _______
-
+<h3 align="center">I</h3>
 ![img](z.pictures/galery.png)
 
  <details>
