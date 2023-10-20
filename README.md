@@ -7,7 +7,7 @@ _______
 
 _______
 _______
-<h3 align="center">📝 INDEX 📝</h3>
+![img](z.pictures/index.png)
 
 <details>
 <summary><b>
@@ -58,7 +58,7 @@ Avaliable in both dark and light colorschemes:
 _______
 _______
 
-<h2 align="center">📷 GALERY 📷</h2>
+![img](z.pictures/galery.png)
 
  <details>
 <summary><b>
@@ -167,8 +167,7 @@ _______
 
 _______
 _______
-
-<h2 align="center">🏗 MANUAL SETUP 🏗</h2>
+![img](z.pictures/manual-setup.png)
 
 
 
@@ -228,7 +227,7 @@ Then place the chosen files (<i>BlackLotus or OldBook, Mint or Suse</i>) into th
 _______
 _______
 
-<h2 align="center">🤖 AUTO SETUP 🤖</h2>
+![img](z.pictures/auto-setup.png)
 
 ---TODO---
 
