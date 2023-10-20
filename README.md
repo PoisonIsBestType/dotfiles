@@ -14,7 +14,7 @@ _______
 Click here
 </b></summary>
 
-- <a href="https://github.com/PoisonIsBestType/dotfiles#">Galery</a>
+- <a href="https://github.com/PoisonIsBestType/dotfiles#i">Galery</a>
 
 - <a href="https://github.com/PoisonIsBestType/dotfiles#-manual-setup-">Manual setup</a>
 
@@ -168,6 +168,8 @@ _______
 
 _______
 _______
+<h3 align="center">II</h3>
+
 ![img](z.pictures/manual-setup.png)
 
 
@@ -227,6 +229,7 @@ Then place the chosen files (<i>BlackLotus or OldBook, Mint or Suse</i>) into th
 
 _______
 _______
+<h3 align="center">III</h3>
 
 ![img](z.pictures/auto-setup.png)
 
@@ -296,6 +299,8 @@ Then:
 <i>(Automated setup available soon, for both colorschemes in OpenSUSE and Mint)</i>
 _______
 _______
+<h3 align="center">IV</h3>
+
 ![img](z.pictures/theme.png)
 
 <p align="center"><i>(by default the config files are set to BlackLotus)</i></p>
@@ -323,6 +328,7 @@ _______
 
 _______
 _______
+<h3 align="center">V</h3>
 
 ![img](z.pictures/keybind.png)
 
@@ -363,6 +369,7 @@ _______
 
 _______
 _______
+<h3 align="center">VI</h3>
 
 ![img](z.pictures/documentation.png)
 
