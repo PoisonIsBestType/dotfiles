@@ -7,7 +7,7 @@ _______
 
 _______
 _______
-<p align='center'>INDEX</p>
+![img](z.pictures/index.png)
 
 <details>
 <summary><b>
@@ -58,7 +58,7 @@ Avaliable in both dark and light colorschemes:
 _______
 _______
 
-### ![img](z.pictures/galery.png)
+![img](z.pictures/galery.png)
 
  <details>
 <summary><b>
@@ -295,7 +295,7 @@ Then:
 <i>(Automated setup available soon, for both colorschemes in OpenSUSE and Mint)</i>
 _______
 _______
-<h2 align="center">🎨 SET THE THEME 🎨</h2>
+![img](z.pictures/theme.png)
 
 <p align="center"><i>(by default the config files are set to BlackLotus)</i></p>
 
@@ -323,7 +323,7 @@ _______
 _______
 _______
 
-<h2 align="center">⌨️ KEYBINDS ⌨️</h2>
+![img](z.pictures/keybind.png)
 
 | MOD | KEY | Description |
 |-------------------|-----------------------|-------------|
@@ -363,7 +363,7 @@ _______
 _______
 _______
 
-<h2 align="center">📄 DOCUMENTATION 📄</h2>
+![img](z.pictures/documentation.png)
 
 The documentation live within the source code.
 
