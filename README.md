@@ -58,7 +58,7 @@ Avaliable in both dark and light colorschemes:
 _______
 _______
 
-![img](z.pictures/galery.png)
+### ![img](z.pictures/galery.png)
 
  <details>
 <summary><b>
