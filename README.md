@@ -379,7 +379,7 @@ The project is split in functional directories and in each of them there is a re
 _______
 _______
 
-<a href="https://github.com/PoisonIsBestType/dotfiles#-dotfiles-">⬆️ Back to the top</a>
+<a href="https://github.com/PoisonIsBestType/dotfiles">⬆️ Back to the top</a>
 
 _______
 
