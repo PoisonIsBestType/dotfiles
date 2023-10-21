@@ -6,6 +6,7 @@ _______
 <p align="center"> Original <code>awesomewm</code> desing by <a href="https://github.com/material-shell/material-awesome">PapyElGringo</a>, this version is based on <a href="https://github.com/ChrisTitusTech/titus-awesome">ChrisTitusTech</a>'s fork. </p>
 
 _______
+
 _______
 ![img](z.pictures/index.png)
 
@@ -35,6 +36,7 @@ Click here
 </details>
 
 _______
+
 _______
 
 ### A keyboard centered experience, with good mouse support. 
@@ -56,8 +58,9 @@ Avaliable in both dark and light colorschemes:
 ![](./z.pictures/desktop-oldbook.png)
 
 _______
-_______
 <h3 align="center">I</h3>
+
+_______
 
 ![img](z.pictures/galery.png)
 
