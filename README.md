@@ -39,7 +39,7 @@ _______
 
 ### A keyboard centered experience, with good mouse support. 
 
-This fork is a hybrid keyboard/mouse driven setup. The whole system can be controled by using the keyboard alone, but the [keybinds](https://github.com/PoisonIsBestType/dotfiles#%EF%B8%8F-keybinds-%EF%B8%8F) focus on left hand usage  by concentrating the controls in the `W/A/S/D` area and using the `Super` key as main modkey, freeing the user's right hand to use the mouse as needed.
+This fork is a hybrid keyboard/mouse driven setup. The whole system can be controled by using the keyboard alone, but the [keybinds](https://github.com/PoisonIsBestType/dotfiles#v) focus on left hand usage  by concentrating the controls in the `W/A/S/D` area and using the `Super` key as main modkey, freeing the user's right hand to use the mouse as needed.
 
 
 
